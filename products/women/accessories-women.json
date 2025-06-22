@@ -1,0 +1,71 @@
+[
+    {
+        "id": 161,
+        "name": "PUNK PRINCESS",
+        "price": "750",
+        "image": "../products/apparel/women_accessory1.png",
+        "shortdesc": "Reign Supreme!",
+        "cart": "161, 'PUNK PRINCESS', 750, '../products/apparel/women_accessory1.png'",
+        "description": "This bag is edgy and feminine. The black leather and silver hardware give it a punk rock vibe, while the heart-shaped charm adds a touch of sweetness. It's perfect for someone who wants to stand out and express their unique style."
+    },
+
+    {
+        "id": 162,
+        "name": "FLUTTERFLY",
+        "price": "450",
+        "image": "../products/apparel/women_accessory2.png",
+        "shortdesc": "Butterflies!",
+        "cart": "162, 'FLUTTERFLY', 450, '../products/apparel/women_accessory2.png'",
+        "description": "This belt is a beautiful and unique accessory. The black leather belt is complemented by a stunning butterfly buckle adorned with sparkling rhinestones. It's perfect for adding a touch of elegance and whimsy to any outfit."
+    },
+
+    {
+        "id": 163,
+        "name": "DENIM DREAM",
+        "price": "910",
+        "image": "../products/apparel/women_accessory3.png",
+        "shortdesc": "Be the chic.",
+        "cart": "163, 'DENIM DREAM', 910, '../products/apparel/women_accessory3.png'",
+        "description": "This denim bag is the perfect blend of casual and chic. The classic hobo shape and iconic Fendi buckle give it a timeless appeal. It's the perfect everyday bag for adding a touch of luxury to your casual look."
+    },
+
+    {
+        "id": 164,
+        "name": "CROSS CLASSIC",
+        "price": "150",
+        "image": "../products/apparel/women_accessory4.png",
+        "shortdesc": "Timeless style!",
+        "cart": "164, 'CROSS CLASSIC', 150, '../products/apparel/women_accessory4.png'",
+        "description": "These sleek silver rings feature a minimalist design with a subtle cross motif. The simple yet elegant look makes them perfect for everyday wear, while the iconic Chrome Hearts branding adds a touch of luxury."
+    },
+
+    {
+        "id": 165,
+        "name": "BOWBEANIE",
+        "price": "490",
+        "image": "../products/apparel/women_accessory5.png",
+        "shortdesc": "Sweet and chic.",
+        "cart": "165, 'BOWBEANIE', 490, '../products/apparel/women_accessory5.png'",
+        "description": "This cozy beanie is a stylish and playful accessory. The soft knit fabric and adorable pearl bow details add a touch of femininity and elegance. It's perfect for keeping warm while looking effortlessly chic."
+    },
+
+    {
+        "id": 166,
+        "name": "SADDLEBAG",
+        "price": "780",
+        "image": "../products/apparel/women_accessory6.png",
+        "shortdesc": "Ride in style.",
+        "cart": "166, 'SADDLEBAG', 780, '../products/apparel/women_accessory6.png'",
+        "description": "This bag is a stylish and edgy accessory. The faux leather construction and studded details give it a rock-and-roll vibe. The multiple compartments and adjustable strap make it both functional and fashionable."
+    },
+
+    {
+        "id": 167,
+        "name": "EMBRACELET",
+        "price": "250",
+        "image": "../products/apparel/women_accessory7.png",
+        "shortdesc": "Shine bright!",
+        "cart": "167, 'EMBRACELET', 250, '../products/apparel/women_accessory7.png'",
+        "description": "This silver bracelet is a simple yet stylish accessory. The chunky chain link adds a touch of edge, while the star charm adds a touch of whimsy. It's perfect for everyday wear or to dress up any outfit."
+    }
+]

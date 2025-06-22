@@ -1,0 +1,100 @@
+[
+    {
+        "id": 63,
+        "name": "STARTOP",
+        "price": "340",
+        "image": "../products/apparel/men_accessory3.png",
+        "shortdesc": "Enhancer.",
+        "cart": "63, 'STARTOP', 340, '../products/apparel/men_accessory3.png'",
+        "description": "The cap features a trendy star print all over, adding a playful touch to its classic silhouette. Made from lightweight fabric, it has a structured crown and a curved bill, perfect for keeping the sun at bay while making a bold fashion statement."
+    },
+
+    {
+        "id": 62,
+        "name": "MR. BEANIE",
+        "price": "290",
+        "image": "../products/apparel/men_accessory2.png",
+        "shortdesc": "Look bald now.",
+        "cart": "62, 'MR. BEANIE', 290, '../products/apparel/men_accessory2.png'",
+        "description": "This cool brown beanie exudes a laid-back vibe, crafted from soft, cozy knit fabric that offers warmth and comfort. Its slouchy fit and ribbed texture give it a stylish edge, making it a versatile accessory that pairs effortlessly with any casual outfit."
+    },
+
+    {
+        "id": 64,
+        "name": "RADIATORZ",
+        "price": "700",
+        "image": "../products/apparel/men_accessory4.png",
+        "shortdesc": "Style you, style you.",
+        "cart": "64, 'RADIATORZ', 700, '../products/apparel/men_accessory4.png'",
+        "description": "These cool shades sport a bold, oversized frame with a sleek, reflective lens that screams attitude. With a design that’s both edgy and urban, they feature thick arms adorned with subtle branding, making them the perfect accessory for a ghetto-inspired street style look."
+    },
+
+    {
+        "id": 2,
+        "name": "VACUUS ALAS",
+        "price": "1,350",
+        "image": "../products/apparel/men_top2.png",
+        "shortdesc": "Empty Wings...",
+        "cart": "2, 'VACUUS ALAS', 1350, '../products/apparel/men_top2.png'",
+        "description": "This jacket is a cozy, comfy dreamboat. The soft, plush material is perfect for chilling or hitting the streets. The olive green color is totally on trend, and the bold VACUUS ALAS graphic is a head-turner."
+    },
+
+    {
+        "id": 3,
+        "name": "COLA-TEE",
+        "price": "670",
+        "image": "../products/apparel/men_top3.png",
+        "shortdesc": "Pair with your fav drink!",
+        "cart": "3, 'COLA-TEE', 670, '../products/apparel/men_top3.png'",
+        "description": "This jersey is a retro-racer's dream. The cream base is totally on trend, and the black and red stripes add a touch of vintage flair."
+    },
+
+    {
+        "id": 1,
+        "name": "BOMBA J4CK3T",
+        "price": "1,100",
+        "image": "../products/apparel/men_top1.png",
+        "shortdesc": "Ber-Months special!",
+        "cart": "1, 'BOMBA J4CK3T', 1100, '../products/apparel/men_top1.png'",
+        "description": "This jacket is a modern classic. The sleek, black leather is totally timeless, and the vintage-inspired patch adds a touch of nostalgia. The oversized fit is perfect for layering or rocking solo."
+    },
+
+    {
+        "id": 32,
+        "name": "MUSTY JE4NZ",
+        "price": "1,250",
+        "image": "../products/apparel/men_bottom2.png",
+        "shortdesc": "Feel old yet?",
+        "cart": "32, 'MUSTY JE4NZ', 1250, '../products/apparel/men_bottom2.png'",
+        "description": "Old but badass jeans. These would look perfect for your simple old money outfits."
+    },
+
+    {   "id": 34,
+        "name": "XTRA WID3 JORTZ",
+        "price": "920",
+        "image": "../products/apparel/men_bottom4.png",
+        "shortdesc": "Wide legs? Wide jorts!",
+        "cart": "34, 'XTRA WID3 JORTZ', 920, '../products/apparel/men_bottom4.png'",
+        "description": "These jorts are a must-have for the streetwear-obsessed. The distressed denim is totally on trend, and the protect logo adds a touch of attitude. The relaxed fit is perfect for chilling or hitting the streets."
+    },
+
+    {
+        "id": 66,
+        "name": "FLEUR CROSS CHAIN",
+        "price": "550",
+        "image": "../products/apparel/men_accessory6.png",
+        "shortdesc": "Thick definition of aura.",
+        "cart": "66, 'FLEUR CROSS CHAIN', 550, '../products/apparel/men_accessory6.png'",
+        "description": "This chain showcases two striking crosses, each intricately designed and hanging from a sturdy metal link. Crafted from durable materials, the chain exudes a bold and edgy vibe, making it a standout accessory that adds a touch of faith and style to any outfit."
+    },
+
+    {
+        "id": 40,
+        "name": "FL3X",
+        "price": "1,440",
+        "image": "../products/apparel/men_bottom10.png",
+        "shortdesc": "Inspired by JNCO",
+        "cart": "40, 'FL3X', 1440, '../products/apparel/men_bottom10.png'",
+        "description": "Wide baggy pants are the ultimate comfort flex, givin' you all the room to breathe and move like you own the scene. With that loose fit draping effortlessly from the waist, they bring a laid-back, cool vibe, perfect for chillin’ or making a bold statement on the streets!"
+    }
+]

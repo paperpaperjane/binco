@@ -1,0 +1,251 @@
+[
+    {
+        "id": 101,
+        "name": "STARGIRL",
+        "price": "790",
+        "image": "../products/apparel/women_top1.png",
+        "shortdesc": "Just a stargirl!",
+        "cart": "101, 'STARGIRL', 790, '../products/apparel/women_top1.png'",
+        "description": "The Stargirl Tee is a soft, comfortable shirt featuring celestial graphics, often with stars or moon motifs and retro-inspired fonts. Typically in pastels or classic black and white, it’s designed to evoke a dreamy, whimsical vibe. Perfect for casual wear, it pairs well with high-waisted jeans or layered under a jacket for a laid-back look."
+    },
+
+    {
+        "id": 102,
+        "name": "KISS.",
+        "price": "490",
+        "image": "../products/apparel/women_top2.png",
+        "shortdesc": "Big lips!",
+        "cart": "102, 'KISS.', 490, '../products/apparel/women_top2.png'",
+        "description": "KISS. features bold graphics inspired by the iconic rock band Kiss, showcasing their signature or the famous makeup-wearing faces of band members. It often has a vintage, worn-in look, with distressed or faded effects to give it a retro, concert-tee feel. It pairs well with jeans or leather jackets for a classic rock-inspired style."
+    },
+
+    {
+        "id": 103,
+        "name": "RED LONDON",
+        "price": "450",
+        "image": "../products/apparel/women_top3.png",
+        "shortdesc": "Red girls!",
+        "cart": "103, 'RED LONDON', 450, '../products/apparel/women_top3.png'",
+        "description": "The London Top typically blends British-inspired elegance with contemporary style, often featuring structured or tailored elements such as high necklines, ruffles, or puffed sleeves. It's commonly available in neutral or muted colors, like navy, grey, or classic white, giving it a sophisticated and versatile look. Perfect for both workwear and casual outings, the London Top pairs well with trousers, skirts, or layered under blazers for a polished ensemble."
+    },
+
+    {
+        "id": 104,
+        "name": "A3L",
+        "price": "685",
+        "image": "../products/apparel/women_top4.png",
+        "shortdesc": "Big shirt, big girl.",
+        "cart": "104, 'A3L', 685, '../products/apparel/women_top4.png'",
+        "description": "The A3L Oversized Red Tee is a loose-fitting, comfortable shirt in a bold, vibrant red hue that makes a statement. Its oversized cut offers a relaxed and trendy silhouette, with dropped shoulders and a longer length for a casual, streetwear-inspired vibe. Versatile and easy to style, it pairs well with anything from jeans to leggings, making it perfect for an effortlessly cool, everyday look."
+    },
+
+    {
+        "id": 105,
+        "name": "SCREAM",
+        "price": "500",
+        "image": "../products/apparel/women_top5.png",
+        "shortdesc": "Jumpscare, BOO!",
+        "cart": "105, 'SCREAM', 500, '../products/apparel/women_top5.png'",
+        "description": "The SCREAM Tee features a striking graphic of a crazy girl, often with exaggerated, expressive features to convey a wild, energetic vibe. The design might include bold lines, intense colors, or chaotic patterns around the character, giving it an edgy, rebellious look. Perfect for a statement outfit, this tee stands out with its bold imagery and can be paired with ripped jeans or layered under a leather jacket for a daring, rock-inspired style."
+    },
+
+    {
+        "id": 106,
+        "name": "NIGHTS",
+        "price": "580",
+        "image": "../products/apparel/women_top6.png",
+        "shortdesc": "Nights like these.",
+        "cart": "106, 'NIGHTS', 580, '../products/apparel/women_top6.png'",
+        "description": "The NIGHTS Tee is a stylish, laid-back shirt often inspired by nightlife and urban aesthetics, typically featuring a dark color scheme like black, deep blue, or charcoal. Its design might include minimalistic graphics, city skylines, neon accents, or abstract nighttime scenes that evoke a moody, after-hours feel. Perfect for a casual night out, it pairs well with jeans or a leather jacket, adding a sleek, understated edge to any outfit."
+    },
+
+    {
+        "id": 107,
+        "name": "LOST SOULS",
+        "price": "970",
+        "image": "../products/apparel/women_top7.png",
+        "shortdesc": "Nether vibes.",
+        "cart": "107, 'LOST SOULS', 970, '../products/apparel/women_top7.png'",
+        "description": "The LOST SOULS sweater is a light-colored, cozy pullover with a hauntingly unique design featuring black, dripping souls graphics descending from the neckline or shoulders. The contrast of the dark, liquid-like drips against the light fabric gives it a striking, edgy look that’s both mysterious and artistic. Perfect for a bold yet relaxed outfit, it can be paired with jeans or layered over a collared shirt for a stylishly eerie vibe."
+    },
+
+    {
+        "id": 108,
+        "name": "MS. MISTER",
+        "price": "1,100",
+        "image": "../products/apparel/women_top8.png",
+        "shortdesc": "Make you boyish.",
+        "cart": "108, 'MS. MISTER', 1100, '../products/apparel/women_top8.png'",
+        "description": "The MS. MISTER sweater is designed with a boyish, androgynous style, featuring a relaxed, boxy fit and straight lines that give it a structured yet casual silhouette. Often made in neutral colors like grey, navy, or beige, it has minimalistic details—such as ribbed cuffs or a small chest emblem—that add subtle charm without being overly feminine. This versatile sweater pairs effortlessly with jeans, trousers, or layered over a collared shirt, creating a cool, gender-neutral look that’s both comfortable and chic."
+    },
+
+    {
+        "id": 109,
+        "name": "ANGER STAR",
+        "price": "920",
+        "image": "../products/apparel/women_top9.png",
+        "shortdesc": "The star of the show.",
+        "cart": "109, 'DANGEROUS STAR', 920, '../products/apparel/women_top9.png'",
+        "description": "The DANGEROUS STAR tank top is a bold, edgy piece for women, featuring a fitted silhouette and a striking design that exudes confidence. Often adorned with a star graphic or metallic accents, it might include details like distressed edges or graphic text that gives it a rebellious, rock-inspired feel. This tank is perfect for pairing with high-waisted jeans or a leather jacket, creating a look that's both fierce and fashion-forward."
+    },
+
+    {
+        "id": 110,
+        "name": "FEMALE KILLA",
+        "price": "690",
+        "image": "../products/apparel/women_top10.png",
+        "shortdesc": "Dangerous women = the best.",
+        "cart": "110, 'FEMALE KILLA', 690, '../products/apparel/women_top10.png'",
+        "description": "The white tee featuring a dangerous girl holding a gun, showcases a bold and striking design that embodies a fierce, rebellious spirit. The illustration often features vivid colors or intricate details that bring the character to life, emphasizing her attitude and confidence. Perfect for a casual yet edgy outfit, this tee pairs well with distressed jeans or shorts, making a statement while maintaining a laid-back vibe."
+    },
+
+    {
+        "id": 111,
+        "name": "FORCE",
+        "price": "650",
+        "image": "../products/apparel/women_top11.png",
+        "shortdesc": "Way to the top.",
+        "cart": "111, 'FORCE', 650, '../products/apparel/women_top11.png'",
+        "description": "The FORCE is a graphic t-shirt that features bold, dynamic designs or slogans, embodying a sense of strength and energy. Often made from soft, breathable fabric, it may come in a range of colors, but black or dark shades are common for a more striking look. Ideal for casual wear, the tee can be styled with jeans, joggers, or shorts, making it a versatile piece for showcasing a powerful, confident vibe."
+    },
+
+    {
+        "id": 112,
+        "name": "SHIBUYA",
+        "price": "780",
+        "image": "../products/apparel/women_top12.png",
+        "shortdesc": "Chinita special!",
+        "cart": "112, 'SHIBUYA', 780, '../products/apparel/women_top12.png'",
+        "description": "SHIBUYA - A cool Japanese shirt featuring unique designs inspired by traditional Japanese art and culture, such as kanji characters, cherry blossoms, or ukiyo-e prints. These shirts may come in various styles, from loose-fitting and oversized to more tailored cuts, and are typically made from lightweight, breathable fabrics like cotton or linen, making them perfect for warmer weather. The color palette can vary widely, ranging from vibrant hues to muted tones, often incorporating intricate patterns that reflect the rich aesthetic of Japanese fashion."
+    },
+
+    {
+        "id": 113,
+        "name": "FLOWER GIRL",
+        "price": "560",
+        "image": "../products/apparel/women_top13.png",
+        "shortdesc": "A little pink!",
+        "cart": "113, 'FLOWER GIRL', 560, '../products/apparel/women_top13.png'",
+        "description": "The FLOWER GIRL is a feminine and whimsical blouse that typically features a floral print or embroidery, capturing a delicate, romantic vibe. It often comes in soft, pastel colors like blush, lavender, or mint, and may include details like ruffles, lace trims, or puffed sleeves for added charm. This versatile top is perfect for pairing with skirts, jeans, or shorts, making it an ideal choice for casual outings, brunches, or summer events."
+    },
+
+    {
+        "id": 114,
+        "name": "UNDERCOVER",
+        "price": "590",
+        "image": "../products/apparel/women_top14.png",
+        "shortdesc": "Slay quietly.",
+        "cart": "114, 'UNDERCOVER', 590, '../products/apparel/women_top14.png'",
+        "description": "UNDERCOVER - a girl pointing a gun showcases a bold and edgy graphic design that captures a fierce attitude. Typically made from soft, comfortable fabric, it may come in neutral colors like black or white, allowing the striking graphic to stand out. This tank is perfect for making a statement, easily paired with high-waisted jeans or shorts for a casual, rebellious look that exudes confidence."
+    },
+
+    {
+        "id": 115,
+        "name": "BUTTERY FLIES",
+        "price": "630",
+        "image": "../products/apparel/women_top15.png",
+        "shortdesc": "See it through!",
+        "cart": "115, 'BUTTERY FLIES', 630, '../products/apparel/women_top15.png'",
+        "description": "A black shirt featuring a butterfly design is a striking and stylish piece that often blends elegance with a touch of whimsy. The butterfly graphic may be vibrantly colored or intricately detailed, creating a beautiful contrast against the black fabric. Typically made from soft, comfortable materials, this shirt can be styled casually with jeans or dressed up with skirts, making it a versatile addition to any wardrobe while symbolizing transformation and beauty."
+    },
+
+    {
+        "id": 116,
+        "name": "WISHES",
+        "price": "780",
+        "image": "../products/apparel/women_top16.png",
+        "shortdesc": "Wish a luck.",
+        "cart": "116, 'WISHES', 780, '../products/apparel/women_top16.png'",
+        "description": "WISHES - A brown, cozy and inviting piece of a sweater, perfect for cooler weather. Made from soft, textured fabric, it often features a relaxed fit with details like ribbed cuffs or a slightly oversized silhouette for added comfort. The design may include subtle embellishments or a whimsical graphic related to the theme of wishes, making it a charming addition to casual outfits, easily paired with jeans or layered over a shirt for a warm, stylish look."
+    },
+
+    {
+        "id": 117,
+        "name": "SHORTENED",
+        "price": "380",
+        "image": "../products/apparel/women_top17.png",
+        "shortdesc": "Life is shortened.",
+        "cart": "117, 'SHORTENED', 380, '../products/apparel/women_top17.png'",
+        "description": "The SHORTENED black top is a stylish and contemporary piece designed for a chic, casual look. Featuring short sleeves and a cropped silhouette, it offers a flattering fit that pairs well with high-waisted bottoms. Made from lightweight, breathable fabric, this top may include unique details like a subtle texture, side slits, or an eye-catching neckline, making it a versatile addition to any wardrobe for both day and night outings."
+    },
+
+    {
+        "id": 118,
+        "name": "CAMPUS",
+        "price": "475",
+        "image": "../products/apparel/women_top18.png",
+        "shortdesc": "Get a sport!",
+        "cart": "118, 'CAMPUS', 475, '../products/apparel/women_top18.png'",
+        "description": "The CAMPUS oversized tee features a relaxed fit that provides comfort and a laid-back vibe. Often adorned with collegiate-inspired graphics or slogans, it captures a casual, sporty aesthetic. Made from soft, breathable fabric, this tee is perfect for pairing with jeans, leggings, or shorts for an effortlessly cool look."
+    },
+
+    {
+        "id": 119,
+        "name": "BLONDE",
+        "price": "420",
+        "image": "../products/apparel/women_top19.png",
+        "shortdesc": "Chill!",
+        "cart": "119, 'BLONDE', 420, '../products/apparel/women_top19.png'",
+        "description": "The BLONDE shirt features a playful or stylish design that celebrates blonde, often with bold graphics or text that highlights the theme. It may come in various styles, such as a fitted tee, relaxed fit, or button-up, and is usually made from soft, comfortable fabric. The color palette often includes light or neutral tones, making it easy to pair with jeans, skirts, or shorts for a casual, fun look that expresses personality and flair."
+    },
+
+    {
+        "id": 120,
+        "name": "EMBRACE",
+        "price": "780",
+        "image": "../products/apparel/women_top20.png",
+        "shortdesc": "Dark days.",
+        "cart": "120, 'EMBRACE', 780, '../products/apparel/women_top20.png'",
+        "description": "The dark oversized shirt with a dark theme features a relaxed fit, exuding an effortlessly cool vibe. Often made from soft, breathable fabric, it may showcase bold graphics, intricate prints, or subtle textures that reflect themes like urban street art, gothic motifs, or abstract designs. This versatile shirt can be styled with distressed jeans, leggings, or layered under jackets, making it a perfect choice for those who appreciate a moody, edgy aesthetic."
+    },
+
+    {
+        "id": 121,
+        "name": "BUTTERFLY CANVAS",
+        "price": "670",
+        "image": "../products/apparel/women_top21.png",
+        "shortdesc": "Filled with insects.",
+        "cart": "121, 'BUTTERFLY CANVAS', 670, '../products/apparel/women_top21.png'",
+        "description": "The BUTTERYFLY CANVAS top for women is a beautifully designed piece that often features a delicate butterfly motif, capturing a sense of elegance and whimsy. Made from lightweight, breathable fabric, it typically has a relaxed or slightly fitted silhouette, making it comfortable for everyday wear. The design may incorporate vibrant colors or intricate details, and it pairs well with jeans, skirts, or shorts, making it a versatile addition to any wardrobe, perfect for both casual outings and more dressed-up occasions."
+    },
+
+    {
+        "id": 122,
+        "name": "ROCK ON!",
+        "price": "550",
+        "image": "../products/apparel/women_top22.png",
+        "shortdesc": "Rock n' Roll!",
+        "cart": "122, 'ROCK ON!', 550, '../products/apparel/women_top22.png'",
+        "description": "The ROCK ON! shirt features a fun and vibrant design, showcasing a cartoonish girl in a playful pose, often with exaggerated features and bold colors. The graphic typically embodies a lively rock-and-roll spirit, possibly with the girl wearing sunglasses, holding a guitar, or making a peace sign. Made from soft, comfortable fabric, this shirt is perfect for casual wear, easily paired with jeans or shorts, and adds a playful touch to any outfit for music lovers and those who appreciate a fun, youthful aesthetic."
+    },
+
+    {
+        "id": 123,
+        "name": "DARK AND LIGHT",
+        "price": "755",
+        "image": "../products/apparel/women_top23.png",
+        "shortdesc": "Mixed!",
+        "cart": "123, 'DARK AND LIGHT', 755, '../products/apparel/women_top23.png'",
+        "description": "The DARK AND LIGHT oversized shirt features a striking design that contrasts dark and light elements, often showcasing beautiful floral patterns. The floral graphics might be vibrant and detailed, adding a touch of nature-inspired elegance against a darker background. Made from soft, breathable fabric, this shirt provides a relaxed fit that is both comfortable and stylish, making it easy to pair with leggings, jeans, or shorts for a casual yet chic look. The combination of dark tones with bright flowers creates a visually appealing balance, perfect for those who love unique and artistic designs."
+    },
+
+    {
+        "id": 124,
+        "name": "EYE-SPY",
+        "price": "650",
+        "image": "../products/apparel/women_top24.png",
+        "shortdesc": "6 eyes 3 spies...",
+        "cart": "124, 'EYE-SPY', 650, '../products/apparel/women_top24.png'",
+        "description": "EYE-SPY features a bold design with six quirky eyes playfully scattered across the fabric. Its lightweight material and relaxed fit make it comfortable for any casual outing. This unique graphic adds a fun, whimsical touch, perfect for expressing your personality and standing out in a crowd."
+    },
+
+    {
+        "id": 125,
+        "name": "Y2000 SHADOWS",
+        "price": "670",
+        "image": "../products/apparel/women_top25.png",
+        "shortdesc": "I see shadows.",
+        "cart": "125, 'Y2000 SHADOWS', 670, '../products/apparel/women_top25.png'",
+        "description": "This black shirt features a striking graphic of a girl’s silhouette, giving it a mysterious and edgy vibe. The design adds a touch of intrigue, making it perfect for standing out while keeping it simple. It's versatile enough to dress up or down, whether you’re hitting the streets or chilling with friends."
+    }
+]
