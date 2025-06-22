@@ -1,0 +1,81 @@
+[
+    {
+        "id": 85,
+        "name": "SAINTS",
+        "price": "3,300",
+        "image": "../products/apparel/men_shoe5.png",
+        "shortdesc": "Crank that!",
+        "cart": "85, 'SAINTS', 3300, '../products/apparel/men_shoe5.png'",
+        "description": "The Saints sneakers are a classic vibe, bringing that old-school Adidas Campus energy. With a sleek silhouette and soft suede, they’re all about that retro charm. Those three stripes pop, making them perfect for rocking with any fit, whether you’re chillin’ or out on the scene."
+    },
+
+    {
+        "id": 14,
+        "name": "STARZ",
+        "price": "950",
+        "image": "../products/apparel/men_top14.png",
+        "shortdesc": "Get the spotlight!",
+        "cart": "14, 'STARZ', 950 , '../products/apparel/men_top14.png'",
+        "description": "Have you always wanted to be the star? This tee breaks necks and turns all eyes on you."
+    },
+
+    {
+        "id": 36,
+        "name": "HOOD SLOUCHERS",
+        "price": "1,270",
+        "image": "../products/apparel/men_bottom6.png",
+        "shortdesc": "Sagggggginnn!",
+        "cart": "36, 'HOOD SLOUCHERS', 1270, '../products/apparel/men_bottom6.png'",
+        "description": "Man, them black baggy jeans be saggin' low, straight chillin’ with that loose fit, lookin' like you ready to stunt on everybody. Ain't no tight stuff here, just mad room for the swag to flow, catchin’ all the attention on the block!"
+    },
+
+    {
+        "id": 71,
+        "name": "LOCKEDHEART",
+        "price": "770",
+        "image": "../products/apparel/men_accessory11.png",
+        "shortdesc": "Head up.",
+        "cart": "71, 'LOCKEDHEART', 770, '../products/apparel/men_accessory11.png'",
+        "description": "The LOCKEDHEART chain is a bold and stylish accessory that combines strength and elegance. Crafted with interlocking links, it features a unique heart-shaped lock charm that adds a romantic touch. Perfect for layering or wearing solo, this chain makes a statement and captures a sense of individuality."
+    },
+
+    {
+        "id": 64,
+        "name": "RADIATORZ",
+        "price": "700",
+        "image": "../products/apparel/men_accessory4.png",
+        "shortdesc": "Style you, style you.",
+        "cart": "64, 'RADIATORZ', 700, '../products/apparel/men_accessory4.png'",
+        "description": "These cool shades sport a bold, oversized frame with a sleek, reflective lens that screams attitude. With a design that’s both edgy and urban, they feature thick arms adorned with subtle branding, making them the perfect accessory for a ghetto-inspired street style look."
+    },
+
+    {
+        "id": 166,
+        "name": "SADDLEBAG",
+        "price": "780",
+        "image": "../products/apparel/women_accessory6.png",
+        "shortdesc": "Ride in style.",
+        "cart": "166, 'SADDLEBAG', 780, '../products/apparel/women_accessory6.png'",
+        "description": "This bag is a stylish and edgy accessory. The faux leather construction and studded details give it a rock-and-roll vibe. The multiple compartments and adjustable strap make it both functional and fashionable."
+    },
+
+    {
+        "id": 132,
+        "name": "ANG3LS SKIRT",
+        "price": "580",
+        "image": "../products/apparel/women_bottom2.png",
+        "shortdesc": "Angelic beauty.",
+        "cart": "132, 'ANG3LS SKIRT', 580, '../products/apparel/women_bottom2.png'",
+        "description": "This denim miniskirt is a classic go-to for a flirty vibe. It’s cut to show off those legs, with a fitted silhouette that hugs in all the right places. Easy to style, it pairs perfectly with a graphic tee or a cute crop top for a casual look."
+    },
+
+    {
+        "id": 135,
+        "name": "BROWNY",
+        "price": "590",
+        "image": "../products/apparel/women_bottom5.png",
+        "shortdesc": "Slay low!",
+        "cart": "135, 'BROWNY', 590, '../products/apparel/women_bottom5.png'",
+        "description": "This brown skirt, called BROWNY, features a sleek design that’s both stylish and practical. It comes with a matching belt that cinches the waist, adding definition and flair. The rich brown hue makes it easy to dress up or down, perfect for any occasion while keeping your look polished and put together."
+    }
+]

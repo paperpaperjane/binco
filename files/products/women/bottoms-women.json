@@ -1,0 +1,131 @@
+[
+    {
+        "id": 131,
+        "name": "F1NESSE",
+        "price": "1,200",
+        "image": "../products/apparel/women_bottom1.png",
+        "shortdesc": "Your go-to curduroy.",
+        "cart": "131, 'F1NESSE', 1200, '../products/apparel/women_bottom1.png'",
+        "description": "These corduroy brown girly pants are super cozy and stylish, perfect for a laid-back vibe. The ridged texture adds a unique touch, while the rich brown color goes with everything. Whether you pair them with a cute top or a bomber jacket, you’ll look effortlessly cool."
+    },
+
+    {
+        "id": 132,
+        "name": "ANG3L'S SKIRT",
+        "price": "580",
+        "image": "../products/apparel/women_bottom2.png",
+        "shortdesc": "Angelic beauty.",
+        "cart": "132, 'ANG3LS SKIRT', 580, '../products/apparel/women_bottom2.png'",
+        "description": "This denim miniskirt is a classic go-to for a flirty vibe. It’s cut to show off those legs, with a fitted silhouette that hugs in all the right places. Easy to style, it pairs perfectly with a graphic tee or a cute crop top for a casual look."
+    },
+
+    {
+        "id": 133,
+        "name": "WIDE ANKLE",
+        "price": "1,200",
+        "image": "../products/apparel/women_bottom3.png",
+        "shortdesc": "Flare claire!",
+        "cart": "133, 'WIDE ANKLE', 1200, '../products/apparel/women_bottom3.png'",
+        "description": "Denim flared pants bring a retro vibe with their wide-leg cut that kicks out at the bottom. They hug the hips and thighs, creating a flattering silhouette that elongates the legs. Perfect for dressing up or down, these pants can be paired with a fitted top or a flowy blouse for a stylish look."
+    },
+
+    {
+        "id": 134,
+        "name": "WASHED MINI",
+        "price": "670",
+        "image": "../products/apparel/women_bottom4.png",
+        "shortdesc": "Cutesy.",
+        "cart": "134, 'WASHED MINI', 670, '../products/apparel/women_bottom4.png'",
+        "description": "This washed denim miniskirt has a relaxed, vintage feel with its faded finish that gives it character. The slightly frayed hem adds a touch of casual cool, making it perfect for sunny days. Easy to style with a tank or oversized sweater, it’s a versatile piece that brings effortless flair to any outfit."
+    },
+
+    {
+        "id": 135,
+        "name": "BROWNY",
+        "price": "590",
+        "image": "../products/apparel/women_bottom5.png",
+        "shortdesc": "Slay low!",
+        "cart": "135, 'BROWNY', 590, '../products/apparel/women_bottom5.png'",
+        "description": "This brown skirt, called BROWNY, features a sleek design that’s both stylish and practical. It comes with a matching belt that cinches the waist, adding definition and flair. The rich brown hue makes it easy to dress up or down, perfect for any occasion while keeping your look polished and put together."
+    },
+
+    {
+        "id": 136,
+        "name": "HANGING WOMAN",
+        "price": "860",
+        "image": "../products/apparel/women_bottom6.png",
+        "shortdesc": "Style with style!",
+        "cart": "136, 'HANGING WOMAN', 860, '../products/apparel/women_bottom6.png'",
+        "description": "The HANGING WOMAN denim skirt features a unique design that mixes edgy style with a classic silhouette. Its distressed details and frayed hem give it a laid-back vibe, while the eye-catching graphic or embellishment adds an artistic flair. Perfect for pairing with a simple tee or a statement top, this skirt is a standout piece that showcases individuality."
+    },
+
+    {
+        "id": 137,
+        "name": "POCKETIER",
+        "price": "1,110",
+        "image": "../products/apparel/women_bottom7.png",
+        "shortdesc": "Hell of pockets!",
+        "cart": "137, 'POCKETIER', 1110, '../products/apparel/women_bottom7.png'",
+        "description": "The POCKETIER jeans are a modern twist on classic denim, featuring functional pockets on the legs for added utility and style. With a tailored fit, they offer both comfort and a sleek silhouette. Perfect for carrying essentials or just making a fashion statement, these jeans blend practicality with a contemporary edge."
+    },
+
+    {
+        "id": 138,
+        "name": "LOOSE ENDS",
+        "price": "1,180",
+        "image": "../products/apparel/women_bottom8.png",
+        "shortdesc": "Flares.",
+        "cart": "138, 'LOOSE ENDS', 1110, '../products/apparel/women_bottom8.png'",
+        "description": "Meet the LOOSE ENDS flared jeans! With a flattering high waist and playful flared bottoms, they create a chic, boho vibe that's perfect for any occasion. The light wash adds a vintage touch, making them a must-have for effortless, girly styling!"
+    },
+
+    {
+        "id": 139,
+        "name": "STARRY NIGHTS",
+        "price": "670",
+        "image": "../products/apparel/women_bottom9.png",
+        "shortdesc": "Stars, nights, denim.",
+        "cart": "139, 'STARRY NIGHTS', 670, '../products/apparel/women_bottom9.png'",
+        "description": "This denim skirt is edgy and playful with a star cut-out and a studded belt. It's a perfect piece for someone who wants to stand out and show off their unique style."
+    },
+
+    {
+        "id": 140,
+        "name": "RACOON",
+        "price": "700",
+        "image": "../products/apparel/women_bottom10.png",
+        "shortdesc": "Edgy.",
+        "cart": "140, 'RACOON', 700, '../products/apparel/women_bottom10.png'",
+        "description": "This skirt is a playful mix of styles. It's got a cute raccoon patch and a star detail, but the mini length and pleated hem give it a bit of edge. It's perfect for someone who wants to stand out and show off their unique personality."
+    },
+
+    {
+        "id": 141,
+        "name": "TWINKLE TWIRL",
+        "price": "590",
+        "image": "../products/apparel/women_bottom11.png",
+        "shortdesc": "Playful and mini >.<",
+        "cart": "141, 'TWINKLE TWIRL', 590, '../products/apparel/women_bottom11.png'",
+        "description": "This short skirt is perfect for twirling and having fun! It's a light color with cute black star patches and has a drawstring waist for a playful touch. The mini length adds a touch of flirty to this fun skirt."
+    },
+
+    {
+        "id": 142,
+        "name": "CARGO CUTIE",
+        "price": "600",
+        "image": "../products/apparel/women_bottom12.png",
+        "shortdesc": "Ready for Duty!",
+        "cart": "142, 'CARGO CUTIE', 600, '../products/apparel/women_bottom12.png'",
+        "description": "This skirt is a cute and practical choice. The cargo pockets add a touch of utility, while the drawstring ties and mini length give it a playful look. It's perfect for a day of errands or a night out on the town."
+    },
+
+    {
+        "id": 143,
+        "name": "SUPERDENIM",
+        "price": "650",
+        "image": "../products/apparel/women_bottom13.png",
+        "shortdesc": "Dare to wear.",
+        "cart": "143, 'TWINKLE TWIRL', 650, '../products/apparel/women_bottom13.png'",
+        "description": "This denim skirt is edgy and stylish. The distressed denim, asymmetrical hem, and zipper details give it a punk rock vibe. It's perfect for someone who wants to stand out and make a statement."
+    }
+]

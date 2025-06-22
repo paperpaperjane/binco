@@ -1,0 +1,91 @@
+[
+    {
+        "id": 81,
+        "name": "THICK JOINTZ",
+        "price": "3,440",
+        "image": "../products/apparel/men_shoe1.png",
+        "shortdesc": "Big steppa!",
+        "cart": "81, 'THICK JOINTZ', 3440, '../products/apparel/men_shoe1.png'",
+        "description": "Thick black shoes are built to last, with heavy soles that grip the pavement. They’ve got that rugged look, perfect for the hustle and bustle of the streets. Slip them on, and you’re ready to roll, looking sharp and feeling invincible."
+    },
+
+    {
+        "id": 82,
+        "name": "PANDA KICKZ",
+        "price": "3,900",
+        "image": "../products/apparel/men_shoe2.png",
+        "shortdesc": "Sportly.",
+        "cart": "82, 'PANDA KICKZ', 3990, '../products/apparel/men_shoe2.png'",
+        "description": "Those black and white sneakers look just like a panda—chunky and cute, with that classic color combo. The black spots pop against the white, making them stand out on the block. They’ve got that playful vibe, perfect for adding some fun to any outfit while keeping it fresh and stylish."
+    },
+
+    {
+        "id": 83,
+        "name": "FLASHY",
+        "price": "3,980",
+        "image": "../products/apparel/men_shoe3.png",
+        "shortdesc": "Chunky and comfy!",
+        "cart": "83, 'FLASHY', 3980, '../products/apparel/men_shoe3.png'",
+        "description": "These chunky running shoes are those heavy-duty kicks that grab attention. They’ve got a thick sole for mad comfort, perfect for running or just chilling on the block. With bold colors and a tough look, they’re all about making a statement while keeping it real."
+    },
+
+    {
+        "id": 84,
+        "name": "BEIGE-STUDD",
+        "price": "3,540",
+        "image": "../products/apparel/men_shoe4.png",
+        "shortdesc": "Breaks necks!",
+        "cart": "84, 'BEIGE-STUDD', 3540, '../products/apparel/men_shoe4.png'",
+        "description": "Those stylish flashy sneakers are straight-up eye candy—shiny, bright colors that turn heads everywhere you go. They’ve got that poppin' design, all about making a statement and flexing hard. With a fresh silhouette and dope details, you throw these on, and it’s instant swag, ready to light up the streets."
+    },
+
+    {
+        "id": 85,
+        "name": "SAINTS",
+        "price": "3,300",
+        "image": "../products/apparel/men_shoe5.png",
+        "shortdesc": "Crank that!",
+        "cart": "85, 'SAINTS', 3300, '../products/apparel/men_shoe5.png'",
+        "description": "The Saints sneakers are a classic vibe, bringing that old-school Adidas Campus energy. With a sleek silhouette and soft suede, they’re all about that retro charm. Those three stripes pop, making them perfect for rocking with any fit, whether you’re chillin’ or out on the scene."
+    },
+
+    {
+        "id": 86,
+        "name": "TIMBLEZ",
+        "price": "2,990",
+        "image": "../products/apparel/men_shoe6.png",
+        "shortdesc": "Hang with yo' friends!",
+        "cart": "86, 'TIMBLEZ', 2990, '../products/apparel/men_shoe6.png'",
+        "description": "The Timblez are those classic sneakers that blend sporty and stylish effortlessly. With their iconic design and smooth leather, they bring that retro flair to any outfit. The striking lines and bold colors make them perfect for standing out while keeping it fresh, whether you’re on the field or just hanging out."
+    },
+
+    {
+        "id": 87,
+        "name": "FLYERS",
+        "price": "3,490",
+        "image": "../products/apparel/men_shoe7.png",
+        "shortdesc": "Ballin' with style!",
+        "cart": "87, 'FLYERS', 3490, '../products/apparel/men_shoe7.png'",
+        "description": "Aight, these FLYERS got that chunky vibe with the big ol' soles that make you feel like you walkin' on clouds. They got them smooth leather and mesh panels, all layered up like a boss with fat laces and that wing lookin’ piece on the side. When you step in these, you ain’t just wearin’ kicks—you flexin’ on everybody in the room."
+    },
+
+    {
+        "id": 88,
+        "name": "OLD SKOOL",
+        "price": "2,550",
+        "image": "../products/apparel/men_shoe8.png",
+        "shortdesc": "Amazing grace.",
+        "cart": "88, 'OLD SKOOL', 2550, '../products/apparel/men_shoe8.png'",
+        "description": "These OLD SKOOL joints are straight classic, rockin’ that high-top canvas with the rubber toe cap that screams vintage cool. They keep it simple with that little star patch on the ankle, and the flat soles are made for stompin’ around anywhere, anytime. Slip on a pair of these, and you’re rollin' with that laid-back, never-goin'-outta-style vibe."
+    },
+
+    {
+        "id": 89,
+        "name": "AMPLIFYE",
+        "price": "1,950",
+        "image": "../products/apparel/men_shoe9.png",
+        "shortdesc": "Style Up Top!",
+        "cart": "89, 'AMPLIFYE', 1950, '../products/apparel/men_shoe9.png'",
+        "description": "These cool green kicks are fresh, with a color that’s loud but smooth, turning heads with every step. The shade is rich, somewhere between a forest and neon pop, making 'em stand out but still wearable with anything. With that clean design and bright green flair, they’re made for showing off and adding that extra heat to your fit."
+    }
+]

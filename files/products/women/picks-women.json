@@ -1,0 +1,91 @@
+[
+    {
+        "id": 183,
+        "name": "BABY PINK",
+        "price": "2,100",
+        "image": "../products/apparel/women_shoe3.png",
+        "shortdesc": "Sweet and street!",
+        "cart": "183, 'BABY PINK', 2100, '../products/apparel/women_shoe3.png'",
+        "description": "These sneakers are a cute and playful take on the classic Bapesta design. The white leather upper and pink accents give them a soft and feminine look, while the iconic star logo adds a touch of street style."
+    },
+
+    {
+        "id": 162,
+        "name": "FLUTTERFLY",
+        "price": "450",
+        "image": "../products/apparel/women_accessory2.png",
+        "shortdesc": "Butterflies!",
+        "cart": "162, 'FLUTTERFLY', 450, '../products/apparel/women_accessory2.png'",
+        "description": "This belt is a beautiful and unique accessory. The black leather belt is complemented by a stunning butterfly buckle adorned with sparkling rhinestones. It's perfect for adding a touch of elegance and whimsy to any outfit."
+    },
+
+    {
+        "id": 103,
+        "name": "RED LONDON",
+        "price": "450",
+        "image": "../products/apparel/women_top3.png",
+        "shortdesc": "Red girls!",
+        "cart": "103, 'RED LONDON', 450, '../products/apparel/women_top3.png'",
+        "description": "The London Top typically blends British-inspired elegance with contemporary style, often featuring structured or tailored elements such as high necklines, ruffles, or puffed sleeves. It's commonly available in neutral or muted colors, like navy, grey, or classic white, giving it a sophisticated and versatile look. Perfect for both workwear and casual outings, the London Top pairs well with trousers, skirts, or layered under blazers for a polished ensemble."
+    },
+
+    {
+        "id": 107,
+        "name": "LOST SOULS",
+        "price": "970",
+        "image": "../products/apparel/women_top7.png",
+        "shortdesc": "Nether vibes.",
+        "cart": "107, 'LOST SOULS', 970, '../products/apparel/women_top7.png'",
+        "description": "The LOST SOULS sweater is a light-colored, cozy pullover with a hauntingly unique design featuring black, dripping souls graphics descending from the neckline or shoulders. The contrast of the dark, liquid-like drips against the light fabric gives it a striking, edgy look that’s both mysterious and artistic. Perfect for a bold yet relaxed outfit, it can be paired with jeans or layered over a collared shirt for a stylishly eerie vibe."
+    },
+
+    {
+        "id": 112,
+        "name": "SHIBUYA",
+        "price": "780",
+        "image": "../products/apparel/women_top12.png",
+        "shortdesc": "Chinita special!",
+        "cart": "112, 'SHIBUYA', 780, '../products/apparel/women_top12.png'",
+        "description": "SHIBUYA - A cool Japanese shirt featuring unique designs inspired by traditional Japanese art and culture, such as kanji characters, cherry blossoms, or ukiyo-e prints. These shirts may come in various styles, from loose-fitting and oversized to more tailored cuts, and are typically made from lightweight, breathable fabrics like cotton or linen, making them perfect for warmer weather. The color palette can vary widely, ranging from vibrant hues to muted tones, often incorporating intricate patterns that reflect the rich aesthetic of Japanese fashion."
+    },
+
+    {
+        "id": 137,
+        "name": "POCKETIER",
+        "price": "1,110",
+        "image": "../products/apparel/women_bottom7.png",
+        "shortdesc": "Hell of pockets!",
+        "cart": "137, 'POCKETIER', 1110, '../products/apparel/women_bottom7.png'",
+        "description": "The POCKETIER jeans are a modern twist on classic denim, featuring functional pockets on the legs for added utility and style. With a tailored fit, they offer both comfort and a sleek silhouette. Perfect for carrying essentials or just making a fashion statement, these jeans blend practicality with a contemporary edge."
+    },
+
+    {
+        "id": 120,
+        "name": "EMBRACE",
+        "price": "780",
+        "image": "../products/apparel/women_top20.png",
+        "shortdesc": "Dark days.",
+        "cart": "120, 'EMBRACE', 780, '../products/apparel/women_top20.png'",
+        "description": "The dark oversized shirt with a dark theme features a relaxed fit, exuding an effortlessly cool vibe. Often made from soft, breathable fabric, it may showcase bold graphics, intricate prints, or subtle textures that reflect themes like urban street art, gothic motifs, or abstract designs. This versatile shirt can be styled with distressed jeans, leggings, or layered under jackets, making it a perfect choice for those who appreciate a moody, edgy aesthetic."
+    },
+
+    {
+        "id": 140,
+        "name": "RACOON",
+        "price": "700",
+        "image": "../products/apparel/women_bottom10.png",
+        "shortdesc": "Edgy.",
+        "cart": "140, 'RACOON', 700, '../products/apparel/women_bottom10.png'",
+        "description": "This skirt is a playful mix of styles. It's got a cute raccoon patch and a star detail, but the mini length and pleated hem give it a bit of edge. It's perfect for someone who wants to stand out and show off their unique personality."
+    },
+
+    {
+        "id": 163,
+        "name": "DENIM DREAM",
+        "price": "910",
+        "image": "../products/apparel/women_accessory3.png",
+        "shortdesc": "Be the chic.",
+        "cart": "163, 'DENIM DREAM', 910, '../products/apparel/women_accessory3.png'",
+        "description": "This denim bag is the perfect blend of casual and chic. The classic hobo shape and iconic Fendi buckle give it a timeless appeal. It's the perfect everyday bag for adding a touch of luxury to your casual look."
+    }
+]

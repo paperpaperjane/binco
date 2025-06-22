@@ -1,0 +1,199 @@
+[
+    {
+        "id": 1,
+        "name": "BOMBA J4CK3T",
+        "price": "1,100",
+        "image": "../products/apparel/men_top1.png",
+        "shortdesc": "Ber-Months special!",
+        "cart": "1, 'BOMBA J4CK3T', 1100, '../products/apparel/men_top1.png'",
+        "description": "This jacket is a modern classic. The sleek, black leather is totally timeless, and the vintage-inspired patch adds a touch of nostalgia. The oversized fit is perfect for layering or rocking solo."
+    },
+
+    {
+        "id": 2,
+        "name": "VACUUS ALAS",
+        "price": "1,350",
+        "image": "../products/apparel/men_top2.png",
+        "shortdesc": "Empty Wings...",
+        "cart": "2, 'VACUUS ALAS', 1350, '../products/apparel/men_top2.png'",
+        "description": "This jacket is a cozy, comfy dreamboat. The soft, plush material is perfect for chilling or hitting the streets. The olive green color is totally on trend, and the bold VACUUS ALAS graphic is a head-turner."
+    },
+
+    {
+        "id": 3,
+        "name": "COLA-TEE",
+        "price": "670",
+        "image": "../products/apparel/men_top3.png",
+        "shortdesc": "Pair with your fav drink!",
+        "cart": "3, 'COLA-TEE', 670, '../products/apparel/men_top3.png'",
+        "description": "This jersey is a retro-racer's dream. The cream base is totally on trend, and the black and red stripes add a touch of vintage flair."
+    },
+
+    {
+        "id": 4,
+        "name": "4TUNE KILLA",
+        "price": "1,115",
+        "image": "../products/apparel/men_top4.png",
+        "shortdesc": "Bring you good luck.",
+        "cart": "4, '4TUNE KILLA', 1115, '../products/apparel/men_top4.png'",
+        "description": "This hoodie is a cosmic dream. The cream color is super chill, and the blue 4TUNE graphic is out of this world."
+    },
+
+    {   "id": 5,
+        "name": "TWISTED NIGHTMARES",
+        "price": "1,200",
+        "image": "../products/apparel/men_top5.png",
+        "shortdesc": "Straight outta uncanny valley!",
+        "cart": "5, 'TWISTED NIGHTMARES', 1200, '../products/apparel/men_top5.png'",
+        "description": "This jacket is straight outta a twisted nightmare! The dark canvas is a perfect backdrop for the creepy, eye-catching graphics. It's like you're wearing a walking statement that says, I'm not afraid to get a little freaky."
+    },
+
+    {   "id": 6,
+        "name": "W4SUP SWEATS",
+        "price": "1,060",
+        "image": "../products/apparel/men_top6.png",
+        "shortdesc": "Just to say wassup!",
+        "cart": "6, 'W4SUP SWEATS', 1060, '../products/apparel/men_top6.png'",
+        "description": "The sleek design and out-of-this-world logo are a total showstopper. The color combo is drop-dead gorgeous, and the contrast stitching adds a touch of rebel spirit. It's perfect for the trendsetters who wanna rule the future."
+    },
+
+    {
+        "id": 7,
+        "name": "ITZY-BITZY SPYDA",
+        "price": "760",
+        "image": "../products/apparel/men_top7.png",
+        "shortdesc": "Kept this under my bed...",
+        "cart": "7, 'ITZY-BITZY SPYDA', 760, '../products/apparel/men_top7.png'",
+        "description": "This tee is a creepy-cool masterpiece. The black canvas is a perfect backdrop for the haunting spider graphic. It's like you're wearing a walking nightmare that's sure to turn heads."
+    },
+
+    {
+        "id": 8,
+        "name": "FR3NCHIE",
+        "price": "450",
+        "image": "../products/apparel/men_top8.png",
+        "shortdesc": "Too brown here.",
+        "cart": "8, 'FR3NCHIE', 450 , '../products/apparel/men_top8.png'",
+        "description": "This tee is a dark, twisted dream. The distressed brown fabric gives it a vintage vibe, while the haunting angel graphic screams gothic-core"
+    },
+
+    {
+        "id": 9,
+        "name": "FALL3N ST4R",
+        "price": "870",
+        "image": "../products/apparel/men_top9.png",
+        "shortdesc": "Falling.",
+        "cart": "9, 'FALL3N ST4R', 870 , '../products/apparel/men_top9.png'",
+        "description": "This tee is a cosmic masterpiece. The black canvas is a perfect backdrop for the otherworldly star graphic. It's like you're wearing a piece of the galaxy on your chest."
+    },
+
+    {
+        "id": 10,
+        "name": "COZY",
+        "price": "1,450",
+        "image": "../products/apparel/men_top10.png",
+        "shortdesc": "Need cozy? Try Cozy.",
+        "cart": "10, 'COZY', 1450 , '../products/apparel/men_top10.png'",
+        "description": "This jacket is a cozy, comfy dream. The soft, plush material is perfect for chilling or hitting the trails. The olive green color is totally on trend, and the patch detail adds a touch of personality."
+    },
+
+    {
+        "id": 11,
+        "name": "SP00KEY",
+        "price": "1,190",
+        "image": "../products/apparel/men_top11.png",
+        "shortdesc": "The fear of comfort.",
+        "cart": "11, 'SP00KEY', 1190 , '../products/apparel/men_top11.png'",
+        "description": "This jacket will scare you with how comfortable it is. Comfy here, comfy there. You'd be feeling like the angels and the demons at the same time."
+    },
+
+    {
+        "id": 12,
+        "name": "GREEN DAYS",
+        "price": "910",
+        "image": "../products/apparel/men_top12.png",
+        "shortdesc": "Eco-friendly polo-shirt!",
+        "cart": "12, 'GREEN DAYS', 910 , '../products/apparel/men_top12.png'",
+        "description": "Ever felt like pollution sucks? Wear this; spread environmental care."
+    },
+
+    {
+        "id": 13,
+        "name": "STREET LEGEND",
+        "price": "1,300",
+        "image": "../products/apparel/men_top13.png",
+        "shortdesc": "Beat the sleek.",
+        "cart": "13, 'STREET LEGEND', 1300 , '../products/apparel/men_top13.png'",
+        "description": "This jacket is a streetwear legend. The sleek design and badass logo are a total game-changer. The color combo is straight fire, and the contrast stitching adds a touch of attitude."
+    },
+
+    {
+        "id": 14,
+        "name": "STARZ",
+        "price": "950",
+        "image": "../products/apparel/men_top14.png",
+        "shortdesc": "Get the spotlight!",
+        "cart": "14, 'STARZ', 950 , '../products/apparel/men_top14.png'",
+        "description": "Have you always wanted to be the star? This tee breaks necks and turns all eyes on you."
+    },
+
+    {
+        "id": 15,
+        "name": "BLUU SHADOWS",
+        "price": "690",
+        "image": "../products/apparel/men_top15.png",
+        "shortdesc": "Under the clouds...",
+        "cart": "15, 'BLUU SHADOWS', 690 , '../products/apparel/men_top15.png'",
+        "description": "Feel the clouds. This tee grants the superior you need and even more."
+    },
+
+    {
+        "id": 16,
+        "name": "GR4TITUDE",
+        "price": "840",
+        "image": "../products/apparel/men_top16.png",
+        "shortdesc": "Feel the heat!",
+        "cart": "16, 'GR4TITUDE', 840 , '../products/apparel/men_top16.png'",
+        "description": "Get a heatstroke with this shirt. The extreme comfort, in exchange for the heat."
+    },
+
+    {
+        "id": 17,
+        "name": "D4RK ROS3",
+        "price": "890",
+        "image": "../products/apparel/men_top17.png",
+        "shortdesc": "Those dark days.",
+        "cart": "17, 'D4RK ROS3', 890 , '../products/apparel/men_top17.png'",
+        "description": "Bring back the dark days, along with the dark roses, just put this shirt on and you're done."
+    },
+
+    {
+        "id": 18,
+        "name": "V-STEALTH",
+        "price": "1,150",
+        "image": "../products/apparel/men_top18.png",
+        "shortdesc": "Shhh... Shtraight fye.",
+        "cart": "18, 'V-STEALTH', 1150 , '../products/apparel/men_top18.png'",
+        "description": "Aight, so this jacket right here lookin' straight fire—black, oversized, with them sharp V-lines like it’s ready for anything. That zip-up style got you ready to flex, no matter where you at. Real chill vibes, perfect for that street look when you tryna keep it lowkey but still fresh."
+    },
+
+    {
+        "id": 19,
+        "name": "FLEECE VIBE",
+        "price": "1,350",
+        "image": "../products/apparel/men_top19.png",
+        "shortdesc": "Cold Combos.",
+        "cart": "19, 'FLEECE VIBE', 1350 , '../products/apparel/men_top19.png'",
+        "description": "This jacket got that retro varsity vibe, with a cold combo of black, white, and navy blue in a bold V-stripe design. The material looks all cozy and sherpa-like, perfect for stunting while staying warm. It’s got those clean zip pockets, and the small logo adds a lil' flavor without doing too much."
+    },
+
+    {
+        "id": 20,
+        "name": "FROST FL3X",
+        "price": "1,250",
+        "image": "../products/apparel/men_top20.png",
+        "shortdesc": "Cold and old!",
+        "cart": "20, 'FROST FL3X', 1250 , '../products/apparel/men_top20.png'",
+        "description": "This jacket got that bold, abstract look with black and white contrast, almost like some sharp wings spread across the front. The plush, fleece-like material makes it cozy but still striking, so it stands out while keeping you warm. It’s got that chill oversized fit with a high collar and zip pockets, perfect for staying stylish in the cold."
+    }
+]
