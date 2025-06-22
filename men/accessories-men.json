@@ -1,0 +1,111 @@
+[
+    {
+        "id": 61,
+        "name": "885 CAP",
+        "price": "250",
+        "image": "../products/apparel/men_accessory1.png",
+        "shortdesc": "Best for bad hair days.",
+        "cart": "61, '885 CAP', 250, '../products/apparel/men_accessory1.png'",
+        "description": "The cap rocks a bold 885 embroidered on the front, set against a sleek, structured design. With a curved bill and adjustable strap, it’s perfect for adding a street vibe to any outfit."
+    },
+
+    {
+        "id": 62,
+        "name": "MR. BEANIE",
+        "price": "290",
+        "image": "../products/apparel/men_accessory2.png",
+        "shortdesc": "Look bald now.",
+        "cart": "62, 'MR. BEANIE', 290, '../products/apparel/men_accessory2.png'",
+        "description": "This cool brown beanie exudes a laid-back vibe, crafted from soft, cozy knit fabric that offers warmth and comfort. Its slouchy fit and ribbed texture give it a stylish edge, making it a versatile accessory that pairs effortlessly with any casual outfit."
+    },
+
+    {
+        "id": 63,
+        "name": "STARTOP",
+        "price": "340",
+        "image": "../products/apparel/men_accessory3.png",
+        "shortdesc": "Enhancer.",
+        "cart": "63, 'STARTOP', 340, '../products/apparel/men_accessory3.png'",
+        "description": "The cap features a trendy star print all over, adding a playful touch to its classic silhouette. Made from lightweight fabric, it has a structured crown and a curved bill, perfect for keeping the sun at bay while making a bold fashion statement."
+    },
+
+    {
+        "id": 64,
+        "name": "RADIATORZ",
+        "price": "700",
+        "image": "../products/apparel/men_accessory4.png",
+        "shortdesc": "Style you, style you.",
+        "cart": "64, 'RADIATORZ', 700, '../products/apparel/men_accessory4.png'",
+        "description": "These cool shades sport a bold, oversized frame with a sleek, reflective lens that screams attitude. With a design that’s both edgy and urban, they feature thick arms adorned with subtle branding, making them the perfect accessory for a ghetto-inspired street style look."
+    },
+
+    {
+        "id": 65,
+        "name": "ON-CROSS",
+        "price": "290",
+        "image": "../products/apparel/men_accessory5.png",
+        "shortdesc": "Formal and stylish.",
+        "cart": "65, 'ON-CROSS', 290, '../products/apparel/men_accessory5.png'",
+        "description": "This necktie features a sleek design with a distinctive cross pendant that hangs stylishly from the tip. Made from high-quality fabric, the tie has a smooth finish and a subtle sheen, adding a touch of elegance while the cross adds a bold, meaningful accent to any formal or casual outfit."
+    },
+
+    {
+        "id": 66,
+        "name": "FLEUR CROSS CHAIN",
+        "price": "550",
+        "image": "../products/apparel/men_accessory6.png",
+        "shortdesc": "Thick definition of aura.",
+        "cart": "66, 'FLEUR CROSS CHAIN', 550, '../products/apparel/men_accessory6.png'",
+        "description": "This chain showcases two striking crosses, each intricately designed and hanging from a sturdy metal link. Crafted from durable materials, the chain exudes a bold and edgy vibe, making it a standout accessory that adds a touch of faith and style to any outfit."
+    },
+
+    {
+        "id": 67,
+        "name": "SH4RPLINK",
+        "price": "650",
+        "image": "../products/apparel/men_accessory7.png",
+        "shortdesc": "Chain of thorns.",
+        "cart": "67, 'SH4RPLINK', 650, '../products/apparel/men_accessory7.png'",
+        "description": "This chain features sharp, angular links that create a bold, industrial look, giving it an edgy and contemporary vibe. The high-polish finish enhances the sharpness of the links, making it a striking accessory that can elevate any outfit, whether casual or formal."
+    },
+
+    {
+        "id": 68,
+        "name": "WORKTIE",
+        "price": "270",
+        "image": "../products/apparel/men_accessory8.png",
+        "shortdesc": "Businesscore",
+        "cart": "68, 'WORKTIE', 270, '../products/apparel/men_accessory8.png'",
+        "description": "A simple neck-tie for you. Just know how to tie a tie."
+    },
+
+    {
+        "id": 69,
+        "name": "TOUCH O' FLAIR",
+        "price": "500",
+        "image": "../products/apparel/men_accessory9.png",
+        "shortdesc": "Shiny BB!",
+        "cart": "69, 'TOUCH O' FLAIR', 500, '../products/apparel/men_accessory9.png'",
+        "description": "The BB belt is a sleek, stylish accessory that adds a touch of flair to any outfit. With its bold buckle and high-quality material, it’s perfect for cinching the waist on dresses or pairing with jeans. Whether you’re going for a casual look or something more polished, this belt effortlessly elevates your style."
+    },
+
+    {
+        "id": 70,
+        "name": "THOSE EYES",
+        "price": "750",
+        "image": "../products/apparel/men_accessory10.png",
+        "shortdesc": "4 shiny eyes.",
+        "cart": "70, 'THOSE EYES', 750, '../products/apparel/men_accessory10.png'",
+        "description": "These flashy shades are all about making a statement. With their bold colors and reflective lenses, they instantly add a touch of glam to any outfit. Perfect for blocking out the sun or just turning heads, they’re the ideal accessory for a standout look."
+    },
+
+    {
+        "id": 71,
+        "name": "LOCKEDHEART",
+        "price": "770",
+        "image": "../products/apparel/men_accessory11.png",
+        "shortdesc": "Head up.",
+        "cart": "71, 'LOCKEDHEART', 770, '../products/apparel/men_accessory11.png'",
+        "description": "The LOCKEDHEART chain is a bold and stylish accessory that combines strength and elegance. Crafted with interlocking links, it features a unique heart-shaped lock charm that adds a romantic touch. Perfect for layering or wearing solo, this chain makes a statement and captures a sense of individuality."
+    }
+]

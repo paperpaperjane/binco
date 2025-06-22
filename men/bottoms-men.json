@@ -1,0 +1,122 @@
+[
+    {
+    "id": 31,
+    "name": "XTRA-LONG JORTZ",
+    "price": "880",
+    "image": "../products/apparel/men_bottom1.png",
+    "shortdesc": "Show 'ya ankles!",
+    "cart": "31, 'XTRA-LONG JORTZ', 880, '../products/apparel/men_bottom1.png'",
+    "description": "These shorts are a retro-chic dream. The high-waisted silhouette and wide legs are straight outta the 90s, and the distressed denim adds a modern touch."
+},
+
+{
+    "id": 32,
+    "name": "MUSTY JE4NZ",
+    "price": "1,250",
+    "image": "../products/apparel/men_bottom2.png",
+    "shortdesc": "Feel old yet?",
+    "cart": "32, 'MUSTY JE4NZ', 1250, '../products/apparel/men_bottom2.png'",
+    "description": "Old but badass jeans. These would look perfect for your simple old money outfits."
+},
+
+{
+    "id": 33,
+    "name": "GET-LOW J34NZ",
+    "price": "1,120",
+    "image": "../products/apparel/men_bottom3.png",
+    "shortdesc": "Ready to sk8?",
+    "cart": "33, '4TUNE KILLA', 1120, '../products/apparel/men_bottom3.png'",
+    "description": "These jeans are a total throwback to the 2000s. The baggy fit and low-rise waist are straight outta a time machine. The chain detailing is a classic Y2K touch"
+},
+
+{   "id": 34,
+    "name": "XTRA WID3 JORTZ",
+    "price": "920",
+    "image": "../products/apparel/men_bottom4.png",
+    "shortdesc": "Wide legs? Wide jorts!",
+    "cart": "34, 'XTRA WID3 JORTZ', 920, '../products/apparel/men_bottom4.png'",
+    "description": "These jorts are a must-have for the streetwear-obsessed. The distressed denim is totally on trend, and the protect logo adds a touch of attitude. The relaxed fit is perfect for chilling or hitting the streets."
+},
+
+{
+    "id": 35,
+    "name": "DRAGONZ SK8",
+    "price": "970",
+    "image": "../products/apparel/men_bottom5.png",
+    "shortdesc": "HELLA comfy.",
+    "cart": "35, 'DRAGONZ SK8', 970, '../products/apparel/men_bottom5.png'",
+    "description": "Make it make sense. Comfy jorts with extra large inside-pockets. Skate easy, skate comfy."
+},
+
+{
+    "id": 36,
+    "name": "HOOD SLOUCHERS",
+    "price": "1,270",
+    "image": "../products/apparel/men_bottom6.png",
+    "shortdesc": "Sagggggginnn!",
+    "cart": "36, 'HOOD SLOUCHERS', 1270, '../products/apparel/men_bottom6.png'",
+    "description": "Man, them black baggy jeans be saggin' low, straight chillin’ with that loose fit, lookin' like you ready to stunt on everybody. Ain't no tight stuff here, just mad room for the swag to flow, catchin’ all the attention on the block!"
+},
+
+{
+    "id": 37,
+    "name": "FLY ROLLERS",
+    "price": "940",
+    "image": "../products/apparel/men_bottom7.png",
+    "shortdesc": "Pair with skate!",
+    "cart": "37, 'FLY ROLLERS', 940, '../products/apparel/men_bottom7.png'",
+    "description": "Ayy, them blue jorts are straight fire, cropped just right to show off the kicks while keepin’ it chill. With that faded denim and a relaxed fit, you’re flexin’ summer vibes all day, lookin’ fly no matter where you roll!"
+},
+
+{
+    "id": 38,
+    "name": "STARGAZER",
+    "price": "1,180",
+    "image": "../products/apparel/men_bottom8.png",
+    "shortdesc": "Walk with the stars!",
+    "cart": "38, 'STARGAZER', 1180, '../products/apparel/men_bottom8.png'",
+    "description": "Those black baggy jeans with star prints on the side are straight-up cosmic! The loose fit gives you that laid-back vibe, while the bold star graphics pop like you’re ready to shine bright, making every step feel like a runway moment!"
+},
+
+{
+    "id": 39,
+    "name": "PARACHUTERZ",
+    "price": "1,110",
+    "image": "../products/apparel/men_bottom9.png",
+    "shortdesc": "Fly on land.",
+    "cart": "39, 'PARACHUTERZ', 1110, '../products/apparel/men_bottom9.png'",
+    "description": "Them dark blue parachute pants are all about that chill, oversized vibe, perfect for movin' and groovin'. With that lightweight, flowy material, you feel like you could float through the day while keepin’ it stylish and comfy, ready to turn heads wherever you go!"
+},
+
+{
+    "id": 40,
+    "name": "FL3X",
+    "price": "1,440",
+    "image": "../products/apparel/men_bottom10.png",
+    "shortdesc": "Inspired by JNCO",
+    "cart": "40, 'FL3X', 1440, '../products/apparel/men_bottom10.png'",
+    "description": "Wide baggy pants are the ultimate comfort flex, givin' you all the room to breathe and move like you own the scene. With that loose fit draping effortlessly from the waist, they bring a laid-back, cool vibe, perfect for chillin’ or making a bold statement on the streets!"
+},
+
+{
+    "id": 41,
+    "name": "SJORTZ",
+    "price": "990",
+    "image": "../products/apparel/men_bottom11.png",
+    "shortdesc": "DEEEP pockets!",
+    "cart": "41, 'SJORTZ', 990, '../products/apparel/men_bottom11.png'",
+    "description": "Ayy, these short jorts got them deep pockets for stashin' your hustle, no cap! With them spider prints crawlin’ all over, you lookin’ real fly, ready to roll through the block and show off your wild style!"
+},
+
+{
+    "id": 42,
+    "name": "WAVEY BOTTS",
+    "price": "1,200",
+    "image": "../products/apparel/men_bottom12.png",
+    "shortdesc": "Wavessss!",
+    "cart": "42, 'WAVEY BOTTS', 1200, '../products/apparel/men_bottom12.png'",
+    "description": "These jeans ain't no regular pair, yo. They're baggy and low-slung, with that faded black wash that screams I don't care. And those extra panels on the sides? Yeah, they're for real, adding some extra swagger to your step."
+}
+
+
+]

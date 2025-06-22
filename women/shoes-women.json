@@ -1,0 +1,91 @@
+[
+    {
+        "id": 181,
+        "name": "CHUNKY CH1C",
+        "price": "2,340",
+        "image": "../products/apparel/women_shoe1.png",
+        "shortdesc": "Bold and Beautiful.",
+        "cart": "181, 'CHUNKY CH1C', 2340, '../products/apparel/women_shoe1.png'",
+        "description": "These loafers are a bold and stylish choice. The chunky platform and square toe give them a modern and edgy look. They're perfect for adding a touch of attitude to any outfit."
+    },
+
+    {
+        "id": 182,
+        "name": "ALL-STAR",
+        "price": "2,400",
+        "image": "../products/apparel/women_shoe2.png",
+        "shortdesc": "Timeless stars.",
+        "cart": "182, 'ALL-STAR', 2400, '../products/apparel/women_shoe2.png'",
+        "description": "These classic sneakers are a timeless piece. The canvas upper and iconic star logo give them a retro look, while the clean lines and minimalist design make them perfect for everyday wear."
+    },
+
+    {
+        "id": 183,
+        "name": "BABY PINK",
+        "price": "2,100",
+        "image": "../products/apparel/women_shoe3.png",
+        "shortdesc": "Sweet and street!",
+        "cart": "183, 'BABY PINK', 2100, '../products/apparel/women_shoe3.png'",
+        "description": "These sneakers are a cute and playful take on the classic Bapesta design. The white leather upper and pink accents give them a soft and feminine look, while the iconic star logo adds a touch of street style."
+    },
+
+    {
+        "id": 184,
+        "name": "BUMP CHUNK",
+        "price": "3,100",
+        "image": "../products/apparel/women_shoe4.png",
+        "shortdesc": "Like a diamond.",
+        "cart": "184, 'BUMP CHUNK', 3100, '../products/apparel/women_shoe4.png'",
+        "description": "These patent leather loafers are a glamorous and edgy choice. The chunky platform and sleek design give them a modern and stylish look. They're perfect for adding a touch of sophistication to any outfit."
+    },
+
+    {
+        "id": 185,
+        "name": "COWABUNGGA",
+        "price": "2,500",
+        "image": "../products/apparel/women_shoe5.png",
+        "shortdesc": "Moo-ving and grooving!",
+        "cart": "185, 'COWABUNGGA', 2500, '../products/apparel/women_shoe5.png'",
+        "description": "These sneakers are a fun and playful take on a classic style. The cowhide print adds a touch of whimsy, while the comfortable design makes them perfect for everyday wear."
+    },
+
+    {
+        "id": 186,
+        "name": "CLASSIC RED",
+        "price": "2,140",
+        "image": "../products/apparel/women_shoe6.png",
+        "shortdesc": "Timeless drip.",
+        "cart": "186, 'CLASSIC RED', 2140, '../products/apparel/women_shoe6.png'",
+        "description": "These iconic high-top Converse sneakers are a classic and timeless choice. The bold red color adds a pop of energy, while the comfortable canvas upper and durable rubber sole make them perfect for everyday wear."
+    },
+
+    {
+        "id": 187,
+        "name": "CREAMY CLASS",
+        "price": "2,100",
+        "image": "../products/apparel/women_shoe7.png",
+        "shortdesc": "Go out with your friends!",
+        "cart": "187, 'CREAMY CLASS', 2100, '../products/apparel/women_shoe7.png'",
+        "description": "These high-top Converse sneakers are a stylish and versatile choice. The soft cream color and classic silhouette give them a timeless look, while the comfortable canvas upper and durable rubber sole make them perfect for everyday wear."
+    },
+
+    {
+        "id": 188,
+        "name": "PLATFORM POP",
+        "price": "2,600",
+        "image": "../products/apparel/women_shoe8.png",
+        "shortdesc": "Step into style!",
+        "cart": "188, 'PLATFORM POP', 2600, '../products/apparel/women_shoe8.png'",
+        "description": "These Converse sneakers are a fun and playful take on a classic style. The chunky platform adds a modern twist, while the neutral color palette makes them easy to pair with any outfit."
+    },
+
+    {
+        "id": 189,
+        "name": "DARK DARLING",
+        "price": "3,150",
+        "image": "../products/apparel/women_shoe9.png",
+        "shortdesc": "Edgy elegance.",
+        "cart": "189, 'DARK DARLING', 3150, '../products/apparel/women_shoe9.png'",
+        "description": "These patent leather Mary Janes are a dark and mysterious choice. The chunky platform and sleek design give them a modern and edgy look. They're perfect for adding a touch of attitude to any outfit."
+    }
+]

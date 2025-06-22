@@ -1,0 +1,1058 @@
+[
+    {
+        "id": 1,
+        "name": "BOMBA J4CK3T",
+        "price": "1,100",
+        "image": "../products/apparel/men_top1.png",
+        "shortdesc": "Ber-Months special!",
+        "cart": "1, 'BOMBA J4CK3T', 1100, '../products/apparel/men_top1.png'",
+        "description": "This jacket is a modern classic. The sleek, black leather is totally timeless, and the vintage-inspired patch adds a touch of nostalgia. The oversized fit is perfect for layering or rocking solo."
+    },
+
+    {
+        "id": 2,
+        "name": "VACUUS ALAS",
+        "price": "1,350",
+        "image": "../products/apparel/men_top2.png",
+        "shortdesc": "Empty Wings...",
+        "cart": "2, 'VACUUS ALAS', 1350, '../products/apparel/men_top2.png'",
+        "description": "This jacket is a cozy, comfy dreamboat. The soft, plush material is perfect for chilling or hitting the streets. The olive green color is totally on trend, and the bold VACUUS ALAS graphic is a head-turner."
+    },
+
+    {
+        "id": 3,
+        "name": "COLA-TEE",
+        "price": "670",
+        "image": "../products/apparel/men_top3.png",
+        "shortdesc": "Pair with your fav drink!",
+        "cart": "3, 'COLA-TEE', 670, '../products/apparel/men_top3.png'",
+        "description": "This jersey is a retro-racer's dream. The cream base is totally on trend, and the black and red stripes add a touch of vintage flair."
+    },
+
+    {
+        "id": 4,
+        "name": "4TUNE KILLA",
+        "price": "1,115",
+        "image": "../products/apparel/men_top4.png",
+        "shortdesc": "Bring you good luck.",
+        "cart": "4, '4TUNE KILLA', 1115, '../products/apparel/men_top4.png'",
+        "description": "This hoodie is a cosmic dream. The cream color is super chill, and the blue 4TUNE graphic is out of this world."
+    },
+
+    {   "id": 5,
+        "name": "TWISTED NIGHTMARES",
+        "price": "1,200",
+        "image": "../products/apparel/men_top5.png",
+        "shortdesc": "Straight outta uncanny valley!",
+        "cart": "5, 'TWISTED NIGHTMARES', 1200, '../products/apparel/men_top5.png'",
+        "description": "This jacket is straight outta a twisted nightmare! The dark canvas is a perfect backdrop for the creepy, eye-catching graphics. It's like you're wearing a walking statement that says, I'm not afraid to get a little freaky."
+    },
+
+    {   "id": 6,
+        "name": "W4SUP SWEATS",
+        "price": "1,060",
+        "image": "../products/apparel/men_top6.png",
+        "shortdesc": "Just to say wassup!",
+        "cart": "6, 'W4SUP SWEATS', 1060, '../products/apparel/men_top6.png'",
+        "description": "The sleek design and out-of-this-world logo are a total showstopper. The color combo is drop-dead gorgeous, and the contrast stitching adds a touch of rebel spirit. It's perfect for the trendsetters who wanna rule the future."
+    },
+
+    {
+        "id": 7,
+        "name": "ITZY-BITZY SPYDA",
+        "price": "760",
+        "image": "../products/apparel/men_top7.png",
+        "shortdesc": "Kept this under my bed...",
+        "cart": "7, 'ITZY-BITZY SPYDA', 760, '../products/apparel/men_top7.png'",
+        "description": "This tee is a creepy-cool masterpiece. The black canvas is a perfect backdrop for the haunting spider graphic. It's like you're wearing a walking nightmare that's sure to turn heads."
+    },
+
+    {
+        "id": 8,
+        "name": "FR3NCHIE",
+        "price": "450",
+        "image": "../products/apparel/men_top8.png",
+        "shortdesc": "Too brown here.",
+        "cart": "8, 'FR3NCHIE', 450 , '../products/apparel/men_top8.png'",
+        "description": "This tee is a dark, twisted dream. The distressed brown fabric gives it a vintage vibe, while the haunting angel graphic screams gothic-core"
+    },
+
+    {
+        "id": 9,
+        "name": "FALL3N ST4R",
+        "price": "870",
+        "image": "../products/apparel/men_top9.png",
+        "shortdesc": "Falling.",
+        "cart": "9, 'FALL3N ST4R', 870 , '../products/apparel/men_top9.png'",
+        "description": "This tee is a cosmic masterpiece. The black canvas is a perfect backdrop for the otherworldly star graphic. It's like you're wearing a piece of the galaxy on your chest."
+    },
+
+    {
+        "id": 10,
+        "name": "COZY",
+        "price": "1,450",
+        "image": "../products/apparel/men_top10.png",
+        "shortdesc": "Need cozy? Try Cozy.",
+        "cart": "10, 'COZY', 1450 , '../products/apparel/men_top10.png'",
+        "description": "This jacket is a cozy, comfy dream. The soft, plush material is perfect for chilling or hitting the trails. The olive green color is totally on trend, and the patch detail adds a touch of personality."
+    },
+
+    {
+        "id": 11,
+        "name": "SP00KEY",
+        "price": "1,190",
+        "image": "../products/apparel/men_top11.png",
+        "shortdesc": "The fear of comfort.",
+        "cart": "11, 'SP00KEY', 1190 , '../products/apparel/men_top11.png'",
+        "description": "This jacket will scare you with how comfortable it is. Comfy here, comfy there. You'd be feeling like the angels and the demons at the same time."
+    },
+
+    {
+        "id": 12,
+        "name": "GREEN DAYS",
+        "price": "910",
+        "image": "../products/apparel/men_top12.png",
+        "shortdesc": "Eco-friendly polo-shirt!",
+        "cart": "12, 'GREEN DAYS', 910 , '../products/apparel/men_top12.png'",
+        "description": "Ever felt like pollution sucks? Wear this; spread environmental care."
+    },
+
+    {
+        "id": 13,
+        "name": "STREET LEGEND",
+        "price": "1,300",
+        "image": "../products/apparel/men_top13.png",
+        "shortdesc": "Beat the sleek.",
+        "cart": "13, 'STREET LEGEND', 1300 , '../products/apparel/men_top13.png'",
+        "description": "This jacket is a streetwear legend. The sleek design and badass logo are a total game-changer. The color combo is straight fire, and the contrast stitching adds a touch of attitude."
+    },
+
+    {
+        "id": 14,
+        "name": "STARZ",
+        "price": "950",
+        "image": "../products/apparel/men_top14.png",
+        "shortdesc": "Get the spotlight!",
+        "cart": "14, 'STARZ', 950 , '../products/apparel/men_top14.png'",
+        "description": "Have you always wanted to be the star? This tee breaks necks and turns all eyes on you."
+    },
+
+    {
+        "id": 15,
+        "name": "BLUU SHADOWS",
+        "price": "690",
+        "image": "../products/apparel/men_top15.png",
+        "shortdesc": "Under the clouds...",
+        "cart": "15, 'BLUU SHADOWS', 690 , '../products/apparel/men_top15.png'",
+        "description": "Feel the clouds. This tee grants the superior you need and even more."
+    },
+
+    {
+        "id": 16,
+        "name": "GR4TITUDE",
+        "price": "840",
+        "image": "../products/apparel/men_top16.png",
+        "shortdesc": "Feel the heat!",
+        "cart": "16, 'GR4TITUDE', 840 , '../products/apparel/men_top16.png'",
+        "description": "Get a heatstroke with this shirt. The extreme comfort, in exchange for the heat."
+    },
+
+    {
+        "id": 17,
+        "name": "D4RK ROS3",
+        "price": "890",
+        "image": "../products/apparel/men_top17.png",
+        "shortdesc": "Those dark days.",
+        "cart": "17, 'D4RK ROS3', 890 , '../products/apparel/men_top17.png'",
+        "description": "Bring back the dark days, along with the dark roses, just put this shirt on and you're done."
+    },
+
+    {
+        "id": 18,
+        "name": "V-STEALTH",
+        "price": "1,150",
+        "image": "../products/apparel/men_top18.png",
+        "shortdesc": "Shhh... Shtraight fye.",
+        "cart": "18, 'V-STEALTH', 1150 , '../products/apparel/men_top18.png'",
+        "description": "Aight, so this jacket right here lookin' straight fire—black, oversized, with them sharp V-lines like it’s ready for anything. That zip-up style got you ready to flex, no matter where you at. Real chill vibes, perfect for that street look when you tryna keep it lowkey but still fresh."
+    },
+
+    {
+        "id": 19,
+        "name": "FLEECE VIBE",
+        "price": "1,350",
+        "image": "../products/apparel/men_top19.png",
+        "shortdesc": "Cold Combos.",
+        "cart": "19, 'FLEECE VIBE', 1350 , '../products/apparel/men_top19.png'",
+        "description": "This jacket got that retro varsity vibe, with a cold combo of black, white, and navy blue in a bold V-stripe design. The material looks all cozy and sherpa-like, perfect for stunting while staying warm. It’s got those clean zip pockets, and the small logo adds a lil' flavor without doing too much."
+    },
+
+    {
+        "id": 20,
+        "name": "FROST FL3X",
+        "price": "1,250",
+        "image": "../products/apparel/men_top20.png",
+        "shortdesc": "Cold and old!",
+        "cart": "20, 'FROST FL3X', 1250 , '../products/apparel/men_top20.png'",
+        "description": "This jacket got that bold, abstract look with black and white contrast, almost like some sharp wings spread across the front. The plush, fleece-like material makes it cozy but still striking, so it stands out while keeping you warm. It’s got that chill oversized fit with a high collar and zip pockets, perfect for staying stylish in the cold."
+    },
+
+    {
+        "id": 31,
+        "name": "XTRA-LONG JORTZ",
+        "price": "880",
+        "image": "../products/apparel/men_bottom1.png",
+        "shortdesc": "Show 'ya ankles!",
+        "cart": "31, 'XTRA-LONG JORTZ', 880, '../products/apparel/men_bottom1.png'",
+        "description": "These shorts are a retro-chic dream. The high-waisted silhouette and wide legs are straight outta the 90s, and the distressed denim adds a modern touch."
+    },
+    
+    {
+        "id": 32,
+        "name": "MUSTY JE4NZ",
+        "price": "1,250",
+        "image": "../products/apparel/men_bottom2.png",
+        "shortdesc": "Feel old yet?",
+        "cart": "32, 'MUSTY JE4NZ', 1250, '../products/apparel/men_bottom2.png'",
+        "description": "Old but badass jeans. These would look perfect for your simple old money outfits."
+    },
+    
+    {
+        "id": 33,
+        "name": "GET-LOW J34NZ",
+        "price": "1,120",
+        "image": "../products/apparel/men_bottom3.png",
+        "shortdesc": "Ready to sk8?",
+        "cart": "33, '4TUNE KILLA', 1120, '../products/apparel/men_bottom3.png'",
+        "description": "These jeans are a total throwback to the 2000s. The baggy fit and low-rise waist are straight outta a time machine. The chain detailing is a classic Y2K touch"
+    },
+    
+    {   "id": 34,
+        "name": "XTRA WID3 JORTZ",
+        "price": "920",
+        "image": "../products/apparel/men_bottom4.png",
+        "shortdesc": "Wide legs? Wide jorts!",
+        "cart": "34, 'XTRA WID3 JORTZ', 920, '../products/apparel/men_bottom4.png'",
+        "description": "These jorts are a must-have for the streetwear-obsessed. The distressed denim is totally on trend, and the protect logo adds a touch of attitude. The relaxed fit is perfect for chilling or hitting the streets."
+    },
+    
+    {
+        "id": 35,
+        "name": "DRAGONZ SK8",
+        "price": "970",
+        "image": "../products/apparel/men_bottom5.png",
+        "shortdesc": "HELLA comfy.",
+        "cart": "35, 'DRAGONZ SK8', 970, '../products/apparel/men_bottom5.png'",
+        "description": "Make it make sense. Comfy jorts with extra large inside-pockets. Skate easy, skate comfy."
+    },
+    
+    {
+        "id": 36,
+        "name": "HOOD SLOUCHERS",
+        "price": "1,270",
+        "image": "../products/apparel/men_bottom6.png",
+        "shortdesc": "Sagggggginnn!",
+        "cart": "36, 'HOOD SLOUCHERS', 1270, '../products/apparel/men_bottom6.png'",
+        "description": "Man, them black baggy jeans be saggin' low, straight chillin’ with that loose fit, lookin' like you ready to stunt on everybody. Ain't no tight stuff here, just mad room for the swag to flow, catchin’ all the attention on the block!"
+    },
+    
+    {
+        "id": 37,
+        "name": "FLY ROLLERS",
+        "price": "940",
+        "image": "../products/apparel/men_bottom7.png",
+        "shortdesc": "Pair with skate!",
+        "cart": "37, 'FLY ROLLERS', 940, '../products/apparel/men_bottom7.png'",
+        "description": "Ayy, them blue jorts are straight fire, cropped just right to show off the kicks while keepin’ it chill. With that faded denim and a relaxed fit, you’re flexin’ summer vibes all day, lookin’ fly no matter where you roll!"
+    },
+    
+    {
+        "id": 38,
+        "name": "STARGAZER",
+        "price": "1,180",
+        "image": "../products/apparel/men_bottom8.png",
+        "shortdesc": "Walk with the stars!",
+        "cart": "38, 'STARGAZER', 1180, '../products/apparel/men_bottom8.png'",
+        "description": "Those black baggy jeans with star prints on the side are straight-up cosmic! The loose fit gives you that laid-back vibe, while the bold star graphics pop like you’re ready to shine bright, making every step feel like a runway moment!"
+    },
+    
+    {
+        "id": 39,
+        "name": "PARACHUTERZ",
+        "price": "1,110",
+        "image": "../products/apparel/men_bottom9.png",
+        "shortdesc": "Fly on land.",
+        "cart": "39, 'PARACHUTERZ', 1110, '../products/apparel/men_bottom9.png'",
+        "description": "Them dark blue parachute pants are all about that chill, oversized vibe, perfect for movin' and groovin'. With that lightweight, flowy material, you feel like you could float through the day while keepin’ it stylish and comfy, ready to turn heads wherever you go!"
+    },
+    
+    {
+        "id": 40,
+        "name": "FL3X",
+        "price": "1,440",
+        "image": "../products/apparel/men_bottom10.png",
+        "shortdesc": "Inspired by JNCO",
+        "cart": "40, 'FL3X', 1440, '../products/apparel/men_bottom10.png'",
+        "description": "Wide baggy pants are the ultimate comfort flex, givin' you all the room to breathe and move like you own the scene. With that loose fit draping effortlessly from the waist, they bring a laid-back, cool vibe, perfect for chillin’ or making a bold statement on the streets!"
+    },
+    
+    {
+        "id": 41,
+        "name": "SJORTZ",
+        "price": "990",
+        "image": "../products/apparel/men_bottom11.png",
+        "shortdesc": "DEEEP pockets!",
+        "cart": "41, 'SJORTZ', 990, '../products/apparel/men_bottom11.png'",
+        "description": "Ayy, these short jorts got them deep pockets for stashin' your hustle, no cap! With them spider prints crawlin’ all over, you lookin’ real fly, ready to roll through the block and show off your wild style!"
+    },
+    
+    {
+        "id": 42,
+        "name": "WAVEY BOTTS",
+        "price": "1,200",
+        "image": "../products/apparel/men_bottom12.png",
+        "shortdesc": "Wavessss!",
+        "cart": "42, 'WAVEY BOTTS', 1200, '../products/apparel/men_bottom12.png'",
+        "description": "These jeans ain't no regular pair, yo. They're baggy and low-slung, with that faded black wash that screams I don't care. And those extra panels on the sides? Yeah, they're for real, adding some extra swagger to your step."
+    },
+
+    {
+        "id": 61,
+        "name": "885 CAP",
+        "price": "250",
+        "image": "../products/apparel/men_accessory1.png",
+        "shortdesc": "Best for bad hair days.",
+        "cart": "61, '885 CAP', 250, '../products/apparel/men_accessory1.png'",
+        "description": "The cap rocks a bold 885 embroidered on the front, set against a sleek, structured design. With a curved bill and adjustable strap, it’s perfect for adding a street vibe to any outfit."
+    },
+
+    {
+        "id": 62,
+        "name": "MR. BEANIE",
+        "price": "290",
+        "image": "../products/apparel/men_accessory2.png",
+        "shortdesc": "Look bald now.",
+        "cart": "62, 'MR. BEANIE', 290, '../products/apparel/men_accessory2.png'",
+        "description": "This cool brown beanie exudes a laid-back vibe, crafted from soft, cozy knit fabric that offers warmth and comfort. Its slouchy fit and ribbed texture give it a stylish edge, making it a versatile accessory that pairs effortlessly with any casual outfit."
+    },
+
+    {
+        "id": 63,
+        "name": "STARTOP",
+        "price": "340",
+        "image": "../products/apparel/men_accessory3.png",
+        "shortdesc": "Enhancer.",
+        "cart": "63, 'STARTOP', 340, '../products/apparel/men_accessory3.png'",
+        "description": "The cap features a trendy star print all over, adding a playful touch to its classic silhouette. Made from lightweight fabric, it has a structured crown and a curved bill, perfect for keeping the sun at bay while making a bold fashion statement."
+    },
+
+    {
+        "id": 64,
+        "name": "RADIATORZ",
+        "price": "700",
+        "image": "../products/apparel/men_accessory4.png",
+        "shortdesc": "Style you, style you.",
+        "cart": "64, 'RADIATORZ', 700, '../products/apparel/men_accessory4.png'",
+        "description": "These cool shades sport a bold, oversized frame with a sleek, reflective lens that screams attitude. With a design that’s both edgy and urban, they feature thick arms adorned with subtle branding, making them the perfect accessory for a ghetto-inspired street style look."
+    },
+
+    {
+        "id": 65,
+        "name": "ON-CROSS",
+        "price": "290",
+        "image": "../products/apparel/men_accessory5.png",
+        "shortdesc": "Formal and stylish.",
+        "cart": "65, 'ON-CROSS', 290, '../products/apparel/men_accessory5.png'",
+        "description": "This necktie features a sleek design with a distinctive cross pendant that hangs stylishly from the tip. Made from high-quality fabric, the tie has a smooth finish and a subtle sheen, adding a touch of elegance while the cross adds a bold, meaningful accent to any formal or casual outfit."
+    },
+
+    {
+        "id": 66,
+        "name": "FLEUR CROSS CHAIN",
+        "price": "550",
+        "image": "../products/apparel/men_accessory6.png",
+        "shortdesc": "Thick definition of aura.",
+        "cart": "66, 'FLEUR CROSS CHAIN', 550, '../products/apparel/men_accessory6.png'",
+        "description": "This chain showcases two striking crosses, each intricately designed and hanging from a sturdy metal link. Crafted from durable materials, the chain exudes a bold and edgy vibe, making it a standout accessory that adds a touch of faith and style to any outfit."
+    },
+
+    {
+        "id": 67,
+        "name": "SH4RPLINK",
+        "price": "650",
+        "image": "../products/apparel/men_accessory7.png",
+        "shortdesc": "Chain of thorns.",
+        "cart": "67, 'SH4RPLINK', 650, '../products/apparel/men_accessory7.png'",
+        "description": "This chain features sharp, angular links that create a bold, industrial look, giving it an edgy and contemporary vibe. The high-polish finish enhances the sharpness of the links, making it a striking accessory that can elevate any outfit, whether casual or formal."
+    },
+
+    {
+        "id": 68,
+        "name": "WORKTIE",
+        "price": "270",
+        "image": "../products/apparel/men_accessory8.png",
+        "shortdesc": "Businesscore",
+        "cart": "68, 'WORKTIE', 270, '../products/apparel/men_accessory8.png'",
+        "description": "A simple neck-tie for you. Just know how to tie a tie."
+    },
+
+    {
+        "id": 69,
+        "name": "TOUCH O' FLAIR",
+        "price": "500",
+        "image": "../products/apparel/men_accessory9.png",
+        "shortdesc": "Shiny BB!",
+        "cart": "69, 'TOUCH O' FLAIR', 500, '../products/apparel/men_accessory9.png'",
+        "description": "The BB belt is a sleek, stylish accessory that adds a touch of flair to any outfit. With its bold buckle and high-quality material, it’s perfect for cinching the waist on dresses or pairing with jeans. Whether you’re going for a casual look or something more polished, this belt effortlessly elevates your style."
+    },
+
+    {
+        "id": 70,
+        "name": "THOSE EYES",
+        "price": "750",
+        "image": "../products/apparel/men_accessory10.png",
+        "shortdesc": "4 shiny eyes.",
+        "cart": "70, 'THOSE EYES', 750, '../products/apparel/men_accessory10.png'",
+        "description": "These flashy shades are all about making a statement. With their bold colors and reflective lenses, they instantly add a touch of glam to any outfit. Perfect for blocking out the sun or just turning heads, they’re the ideal accessory for a standout look."
+    },
+
+    {
+        "id": 71,
+        "name": "LOCKEDHEART",
+        "price": "770",
+        "image": "../products/apparel/men_accessory11.png",
+        "shortdesc": "Head up.",
+        "cart": "71, 'LOCKEDHEART', 770, '../products/apparel/men_accessory11.png'",
+        "description": "The LOCKEDHEART chain is a bold and stylish accessory that combines strength and elegance. Crafted with interlocking links, it features a unique heart-shaped lock charm that adds a romantic touch. Perfect for layering or wearing solo, this chain makes a statement and captures a sense of individuality."
+    },
+
+    {
+        "id": 81,
+        "name": "THICK JOINTZ",
+        "price": "3,440",
+        "image": "../products/apparel/men_shoe1.png",
+        "shortdesc": "Big steppa!",
+        "cart": "81, 'THICK JOINTZ', 3440, '../products/apparel/men_shoe1.png'",
+        "description": "Thick black shoes are built to last, with heavy soles that grip the pavement. They’ve got that rugged look, perfect for the hustle and bustle of the streets. Slip them on, and you’re ready to roll, looking sharp and feeling invincible."
+    },
+
+    {
+        "id": 82,
+        "name": "PANDA KICKZ",
+        "price": "3,900",
+        "image": "../products/apparel/men_shoe2.png",
+        "shortdesc": "Sportly.",
+        "cart": "82, 'PANDA KICKZ', 3990, '../products/apparel/men_shoe2.png'",
+        "description": "Those black and white sneakers look just like a panda—chunky and cute, with that classic color combo. The black spots pop against the white, making them stand out on the block. They’ve got that playful vibe, perfect for adding some fun to any outfit while keeping it fresh and stylish."
+    },
+
+    {
+        "id": 83,
+        "name": "FLASHY",
+        "price": "3,980",
+        "image": "../products/apparel/men_shoe3.png",
+        "shortdesc": "Chunky and comfy!",
+        "cart": "83, 'FLASHY', 3980, '../products/apparel/men_shoe3.png'",
+        "description": "These chunky running shoes are those heavy-duty kicks that grab attention. They’ve got a thick sole for mad comfort, perfect for running or just chilling on the block. With bold colors and a tough look, they’re all about making a statement while keeping it real."
+    },
+
+    {
+        "id": 84,
+        "name": "BEIGE-STUDD",
+        "price": "3,540",
+        "image": "../products/apparel/men_shoe4.png",
+        "shortdesc": "Breaks necks!",
+        "cart": "84, 'BEIGE-STUDD', 3540, '../products/apparel/men_shoe4.png'",
+        "description": "Those stylish flashy sneakers are straight-up eye candy—shiny, bright colors that turn heads everywhere you go. They’ve got that poppin' design, all about making a statement and flexing hard. With a fresh silhouette and dope details, you throw these on, and it’s instant swag, ready to light up the streets."
+    },
+
+    {
+        "id": 85,
+        "name": "SAINTS",
+        "price": "3,300",
+        "image": "../products/apparel/men_shoe5.png",
+        "shortdesc": "Crank that!",
+        "cart": "85, 'SAINTS', 3300, '../products/apparel/men_shoe5.png'",
+        "description": "The Saints sneakers are a classic vibe, bringing that old-school Adidas Campus energy. With a sleek silhouette and soft suede, they’re all about that retro charm. Those three stripes pop, making them perfect for rocking with any fit, whether you’re chillin’ or out on the scene."
+    },
+
+    {
+        "id": 86,
+        "name": "TIMBLEZ",
+        "price": "2,990",
+        "image": "../products/apparel/men_shoe6.png",
+        "shortdesc": "Hang with yo' friends!",
+        "cart": "86, 'TIMBLEZ', 2990, '../products/apparel/men_shoe6.png'",
+        "description": "The Timblez are those classic sneakers that blend sporty and stylish effortlessly. With their iconic design and smooth leather, they bring that retro flair to any outfit. The striking lines and bold colors make them perfect for standing out while keeping it fresh, whether you’re on the field or just hanging out."
+    },
+
+    {
+        "id": 87,
+        "name": "FLYERS",
+        "price": "3,490",
+        "image": "../products/apparel/men_shoe7.png",
+        "shortdesc": "Ballin' with style!",
+        "cart": "87, 'FLYERS', 3490, '../products/apparel/men_shoe7.png'",
+        "description": "Aight, these FLYERS got that chunky vibe with the big ol' soles that make you feel like you walkin' on clouds. They got them smooth leather and mesh panels, all layered up like a boss with fat laces and that wing lookin’ piece on the side. When you step in these, you ain’t just wearin’ kicks—you flexin’ on everybody in the room."
+    },
+
+    {
+        "id": 88,
+        "name": "OLD SKOOL",
+        "price": "2,550",
+        "image": "../products/apparel/men_shoe8.png",
+        "shortdesc": "Amazing grace.",
+        "cart": "88, 'OLD SKOOL', 2550, '../products/apparel/men_shoe8.png'",
+        "description": "These OLD SKOOL joints are straight classic, rockin’ that high-top canvas with the rubber toe cap that screams vintage cool. They keep it simple with that little star patch on the ankle, and the flat soles are made for stompin’ around anywhere, anytime. Slip on a pair of these, and you’re rollin' with that laid-back, never-goin'-outta-style vibe."
+    },
+
+    {
+        "id": 89,
+        "name": "AMPLIFYE",
+        "price": "1,950",
+        "image": "../products/apparel/men_shoe9.png",
+        "shortdesc": "Style Up Top!",
+        "cart": "89, 'AMPLIFYE', 1950, '../products/apparel/men_shoe9.png'",
+        "description": "These cool green kicks are fresh, with a color that’s loud but smooth, turning heads with every step. The shade is rich, somewhere between a forest and neon pop, making 'em stand out but still wearable with anything. With that clean design and bright green flair, they’re made for showing off and adding that extra heat to your fit."
+    },
+
+    {
+        "id": 101,
+        "name": "STARGIRL",
+        "price": "790",
+        "image": "../products/apparel/women_top1.png",
+        "shortdesc": "Just a stargirl!",
+        "cart": "101, 'STARGIRL', 790, '../products/apparel/women_top1.png'",
+        "description": "The Stargirl Tee is a soft, comfortable shirt featuring celestial graphics, often with stars or moon motifs and retro-inspired fonts. Typically in pastels or classic black and white, it’s designed to evoke a dreamy, whimsical vibe. Perfect for casual wear, it pairs well with high-waisted jeans or layered under a jacket for a laid-back look."
+    },
+
+    {
+        "id": 102,
+        "name": "KISS.",
+        "price": "490",
+        "image": "../products/apparel/women_top2.png",
+        "shortdesc": "Big lips!",
+        "cart": "102, 'KISS.', 490, '../products/apparel/women_top2.png'",
+        "description": "KISS. features bold graphics inspired by the iconic rock band Kiss, showcasing their signature or the famous makeup-wearing faces of band members. It often has a vintage, worn-in look, with distressed or faded effects to give it a retro, concert-tee feel. It pairs well with jeans or leather jackets for a classic rock-inspired style."
+    },
+
+    {
+        "id": 103,
+        "name": "RED LONDON",
+        "price": "450",
+        "image": "../products/apparel/women_top3.png",
+        "shortdesc": "Red girls!",
+        "cart": "103, 'RED LONDON', 450, '../products/apparel/women_top3.png'",
+        "description": "The London Top typically blends British-inspired elegance with contemporary style, often featuring structured or tailored elements such as high necklines, ruffles, or puffed sleeves. It's commonly available in neutral or muted colors, like navy, grey, or classic white, giving it a sophisticated and versatile look. Perfect for both workwear and casual outings, the London Top pairs well with trousers, skirts, or layered under blazers for a polished ensemble."
+    },
+
+    {
+        "id": 104,
+        "name": "A3L",
+        "price": "685",
+        "image": "../products/apparel/women_top4.png",
+        "shortdesc": "Big shirt, big girl.",
+        "cart": "104, 'A3L', 685, '../products/apparel/women_top4.png'",
+        "description": "The A3L Oversized Red Tee is a loose-fitting, comfortable shirt in a bold, vibrant red hue that makes a statement. Its oversized cut offers a relaxed and trendy silhouette, with dropped shoulders and a longer length for a casual, streetwear-inspired vibe. Versatile and easy to style, it pairs well with anything from jeans to leggings, making it perfect for an effortlessly cool, everyday look."
+    },
+
+    {
+        "id": 105,
+        "name": "SCREAM",
+        "price": "500",
+        "image": "../products/apparel/women_top5.png",
+        "shortdesc": "Jumpscare, BOO!",
+        "cart": "105, 'SCREAM', 500, '../products/apparel/women_top5.png'",
+        "description": "The SCREAM Tee features a striking graphic of a crazy girl, often with exaggerated, expressive features to convey a wild, energetic vibe. The design might include bold lines, intense colors, or chaotic patterns around the character, giving it an edgy, rebellious look. Perfect for a statement outfit, this tee stands out with its bold imagery and can be paired with ripped jeans or layered under a leather jacket for a daring, rock-inspired style."
+    },
+
+    {
+        "id": 106,
+        "name": "NIGHTS",
+        "price": "580",
+        "image": "../products/apparel/women_top6.png",
+        "shortdesc": "Nights like these.",
+        "cart": "106, 'NIGHTS', 580, '../products/apparel/women_top6.png'",
+        "description": "The NIGHTS Tee is a stylish, laid-back shirt often inspired by nightlife and urban aesthetics, typically featuring a dark color scheme like black, deep blue, or charcoal. Its design might include minimalistic graphics, city skylines, neon accents, or abstract nighttime scenes that evoke a moody, after-hours feel. Perfect for a casual night out, it pairs well with jeans or a leather jacket, adding a sleek, understated edge to any outfit."
+    },
+
+    {
+        "id": 107,
+        "name": "LOST SOULS",
+        "price": "970",
+        "image": "../products/apparel/women_top7.png",
+        "shortdesc": "Nether vibes.",
+        "cart": "107, 'LOST SOULS', 970, '../products/apparel/women_top7.png'",
+        "description": "The LOST SOULS sweater is a light-colored, cozy pullover with a hauntingly unique design featuring black, dripping souls graphics descending from the neckline or shoulders. The contrast of the dark, liquid-like drips against the light fabric gives it a striking, edgy look that’s both mysterious and artistic. Perfect for a bold yet relaxed outfit, it can be paired with jeans or layered over a collared shirt for a stylishly eerie vibe."
+    },
+
+    {
+        "id": 108,
+        "name": "MS. MISTER",
+        "price": "1,100",
+        "image": "../products/apparel/women_top8.png",
+        "shortdesc": "Make you boyish.",
+        "cart": "108, 'MS. MISTER', 1100, '../products/apparel/women_top8.png'",
+        "description": "The MS. MISTER sweater is designed with a boyish, androgynous style, featuring a relaxed, boxy fit and straight lines that give it a structured yet casual silhouette. Often made in neutral colors like grey, navy, or beige, it has minimalistic details—such as ribbed cuffs or a small chest emblem—that add subtle charm without being overly feminine. This versatile sweater pairs effortlessly with jeans, trousers, or layered over a collared shirt, creating a cool, gender-neutral look that’s both comfortable and chic."
+    },
+
+    {
+        "id": 109,
+        "name": "ANGER STAR",
+        "price": "920",
+        "image": "../products/apparel/women_top9.png",
+        "shortdesc": "The star of the show.",
+        "cart": "109, 'DANGEROUS STAR', 920, '../products/apparel/women_top9.png'",
+        "description": "The DANGEROUS STAR tank top is a bold, edgy piece for women, featuring a fitted silhouette and a striking design that exudes confidence. Often adorned with a star graphic or metallic accents, it might include details like distressed edges or graphic text that gives it a rebellious, rock-inspired feel. This tank is perfect for pairing with high-waisted jeans or a leather jacket, creating a look that's both fierce and fashion-forward."
+    },
+
+    {
+        "id": 110,
+        "name": "FEMALE KILLA",
+        "price": "690",
+        "image": "../products/apparel/women_top10.png",
+        "shortdesc": "Dangerous women = the best.",
+        "cart": "110, 'FEMALE KILLA', 690, '../products/apparel/women_top10.png'",
+        "description": "The white tee featuring a dangerous girl holding a gun, showcases a bold and striking design that embodies a fierce, rebellious spirit. The illustration often features vivid colors or intricate details that bring the character to life, emphasizing her attitude and confidence. Perfect for a casual yet edgy outfit, this tee pairs well with distressed jeans or shorts, making a statement while maintaining a laid-back vibe."
+    },
+
+    {
+        "id": 111,
+        "name": "FORCE",
+        "price": "650",
+        "image": "../products/apparel/women_top11.png",
+        "shortdesc": "Way to the top.",
+        "cart": "111, 'FORCE', 650, '../products/apparel/women_top11.png'",
+        "description": "The FORCE is a graphic t-shirt that features bold, dynamic designs or slogans, embodying a sense of strength and energy. Often made from soft, breathable fabric, it may come in a range of colors, but black or dark shades are common for a more striking look. Ideal for casual wear, the tee can be styled with jeans, joggers, or shorts, making it a versatile piece for showcasing a powerful, confident vibe."
+    },
+
+    {
+        "id": 112,
+        "name": "SHIBUYA",
+        "price": "780",
+        "image": "../products/apparel/women_top12.png",
+        "shortdesc": "Chinita special!",
+        "cart": "112, 'SHIBUYA', 780, '../products/apparel/women_top12.png'",
+        "description": "SHIBUYA - A cool Japanese shirt featuring unique designs inspired by traditional Japanese art and culture, such as kanji characters, cherry blossoms, or ukiyo-e prints. These shirts may come in various styles, from loose-fitting and oversized to more tailored cuts, and are typically made from lightweight, breathable fabrics like cotton or linen, making them perfect for warmer weather. The color palette can vary widely, ranging from vibrant hues to muted tones, often incorporating intricate patterns that reflect the rich aesthetic of Japanese fashion."
+    },
+
+    {
+        "id": 113,
+        "name": "FLOWER GIRL",
+        "price": "560",
+        "image": "../products/apparel/women_top13.png",
+        "shortdesc": "A little pink!",
+        "cart": "113, 'FLOWER GIRL', 560, '../products/apparel/women_top13.png'",
+        "description": "The FLOWER GIRL is a feminine and whimsical blouse that typically features a floral print or embroidery, capturing a delicate, romantic vibe. It often comes in soft, pastel colors like blush, lavender, or mint, and may include details like ruffles, lace trims, or puffed sleeves for added charm. This versatile top is perfect for pairing with skirts, jeans, or shorts, making it an ideal choice for casual outings, brunches, or summer events."
+    },
+
+    {
+        "id": 114,
+        "name": "UNDERCOVER",
+        "price": "590",
+        "image": "../products/apparel/women_top14.png",
+        "shortdesc": "Slay quietly.",
+        "cart": "114, 'UNDERCOVER', 590, '../products/apparel/women_top14.png'",
+        "description": "UNDERCOVER - a girl pointing a gun showcases a bold and edgy graphic design that captures a fierce attitude. Typically made from soft, comfortable fabric, it may come in neutral colors like black or white, allowing the striking graphic to stand out. This tank is perfect for making a statement, easily paired with high-waisted jeans or shorts for a casual, rebellious look that exudes confidence."
+    },
+
+    {
+        "id": 115,
+        "name": "BUTTERY FLIES",
+        "price": "630",
+        "image": "../products/apparel/women_top15.png",
+        "shortdesc": "See it through!",
+        "cart": "115, 'BUTTERY FLIES', 630, '../products/apparel/women_top15.png'",
+        "description": "A black shirt featuring a butterfly design is a striking and stylish piece that often blends elegance with a touch of whimsy. The butterfly graphic may be vibrantly colored or intricately detailed, creating a beautiful contrast against the black fabric. Typically made from soft, comfortable materials, this shirt can be styled casually with jeans or dressed up with skirts, making it a versatile addition to any wardrobe while symbolizing transformation and beauty."
+    },
+
+    {
+        "id": 116,
+        "name": "WISHES",
+        "price": "780",
+        "image": "../products/apparel/women_top16.png",
+        "shortdesc": "Wish a luck.",
+        "cart": "116, 'WISHES', 780, '../products/apparel/women_top16.png'",
+        "description": "WISHES - A brown, cozy and inviting piece of a sweater, perfect for cooler weather. Made from soft, textured fabric, it often features a relaxed fit with details like ribbed cuffs or a slightly oversized silhouette for added comfort. The design may include subtle embellishments or a whimsical graphic related to the theme of wishes, making it a charming addition to casual outfits, easily paired with jeans or layered over a shirt for a warm, stylish look."
+    },
+
+    {
+        "id": 117,
+        "name": "SHORTENED",
+        "price": "380",
+        "image": "../products/apparel/women_top17.png",
+        "shortdesc": "Life is shortened.",
+        "cart": "117, 'SHORTENED', 380, '../products/apparel/women_top17.png'",
+        "description": "The SHORTENED black top is a stylish and contemporary piece designed for a chic, casual look. Featuring short sleeves and a cropped silhouette, it offers a flattering fit that pairs well with high-waisted bottoms. Made from lightweight, breathable fabric, this top may include unique details like a subtle texture, side slits, or an eye-catching neckline, making it a versatile addition to any wardrobe for both day and night outings."
+    },
+
+    {
+        "id": 118,
+        "name": "CAMPUS",
+        "price": "475",
+        "image": "../products/apparel/women_top18.png",
+        "shortdesc": "Get a sport!",
+        "cart": "118, 'CAMPUS', 475, '../products/apparel/women_top18.png'",
+        "description": "The CAMPUS oversized tee features a relaxed fit that provides comfort and a laid-back vibe. Often adorned with collegiate-inspired graphics or slogans, it captures a casual, sporty aesthetic. Made from soft, breathable fabric, this tee is perfect for pairing with jeans, leggings, or shorts for an effortlessly cool look."
+    },
+
+    {
+        "id": 119,
+        "name": "BLONDE",
+        "price": "420",
+        "image": "../products/apparel/women_top19.png",
+        "shortdesc": "Chill!",
+        "cart": "119, 'BLONDE', 420, '../products/apparel/women_top19.png'",
+        "description": "The BLONDE shirt features a playful or stylish design that celebrates blonde, often with bold graphics or text that highlights the theme. It may come in various styles, such as a fitted tee, relaxed fit, or button-up, and is usually made from soft, comfortable fabric. The color palette often includes light or neutral tones, making it easy to pair with jeans, skirts, or shorts for a casual, fun look that expresses personality and flair."
+    },
+
+    {
+        "id": 120,
+        "name": "EMBRACE",
+        "price": "780",
+        "image": "../products/apparel/women_top20.png",
+        "shortdesc": "Dark days.",
+        "cart": "120, 'EMBRACE', 780, '../products/apparel/women_top20.png'",
+        "description": "The dark oversized shirt with a dark theme features a relaxed fit, exuding an effortlessly cool vibe. Often made from soft, breathable fabric, it may showcase bold graphics, intricate prints, or subtle textures that reflect themes like urban street art, gothic motifs, or abstract designs. This versatile shirt can be styled with distressed jeans, leggings, or layered under jackets, making it a perfect choice for those who appreciate a moody, edgy aesthetic."
+    },
+
+    {
+        "id": 121,
+        "name": "BUTTERFLY CANVAS",
+        "price": "670",
+        "image": "../products/apparel/women_top21.png",
+        "shortdesc": "Filled with insects.",
+        "cart": "121, 'BUTTERFLY CANVAS', 670, '../products/apparel/women_top21.png'",
+        "description": "The BUTTERYFLY CANVAS top for women is a beautifully designed piece that often features a delicate butterfly motif, capturing a sense of elegance and whimsy. Made from lightweight, breathable fabric, it typically has a relaxed or slightly fitted silhouette, making it comfortable for everyday wear. The design may incorporate vibrant colors or intricate details, and it pairs well with jeans, skirts, or shorts, making it a versatile addition to any wardrobe, perfect for both casual outings and more dressed-up occasions."
+    },
+
+    {
+        "id": 122,
+        "name": "ROCK ON!",
+        "price": "550",
+        "image": "../products/apparel/women_top22.png",
+        "shortdesc": "Rock n' Roll!",
+        "cart": "122, 'ROCK ON!', 550, '../products/apparel/women_top22.png'",
+        "description": "The ROCK ON! shirt features a fun and vibrant design, showcasing a cartoonish girl in a playful pose, often with exaggerated features and bold colors. The graphic typically embodies a lively rock-and-roll spirit, possibly with the girl wearing sunglasses, holding a guitar, or making a peace sign. Made from soft, comfortable fabric, this shirt is perfect for casual wear, easily paired with jeans or shorts, and adds a playful touch to any outfit for music lovers and those who appreciate a fun, youthful aesthetic."
+    },
+
+    {
+        "id": 123,
+        "name": "DARK AND LIGHT",
+        "price": "755",
+        "image": "../products/apparel/women_top23.png",
+        "shortdesc": "Mixed!",
+        "cart": "123, 'DARK AND LIGHT', 755, '../products/apparel/women_top23.png'",
+        "description": "The DARK AND LIGHT oversized shirt features a striking design that contrasts dark and light elements, often showcasing beautiful floral patterns. The floral graphics might be vibrant and detailed, adding a touch of nature-inspired elegance against a darker background. Made from soft, breathable fabric, this shirt provides a relaxed fit that is both comfortable and stylish, making it easy to pair with leggings, jeans, or shorts for a casual yet chic look. The combination of dark tones with bright flowers creates a visually appealing balance, perfect for those who love unique and artistic designs."
+    },
+
+    {
+        "id": 124,
+        "name": "EYE-SPY",
+        "price": "650",
+        "image": "../products/apparel/women_top24.png",
+        "shortdesc": "6 eyes 3 spies...",
+        "cart": "124, 'EYE-SPY', 650, '../products/apparel/women_top24.png'",
+        "description": "EYE-SPY features a bold design with six quirky eyes playfully scattered across the fabric. Its lightweight material and relaxed fit make it comfortable for any casual outing. This unique graphic adds a fun, whimsical touch, perfect for expressing your personality and standing out in a crowd."
+    },
+
+    {
+        "id": 125,
+        "name": "Y2000 SHADOWS",
+        "price": "670",
+        "image": "../products/apparel/women_top25.png",
+        "shortdesc": "I see shadows.",
+        "cart": "125, 'Y2000 SHADOWS', 670, '../products/apparel/women_top25.png'",
+        "description": "This black shirt features a striking graphic of a girl’s silhouette, giving it a mysterious and edgy vibe. The design adds a touch of intrigue, making it perfect for standing out while keeping it simple. It's versatile enough to dress up or down, whether you’re hitting the streets or chilling with friends."
+    },
+
+    {
+        "id": 131,
+        "name": "F1NESSE",
+        "price": "1,200",
+        "image": "../products/apparel/women_bottom1.png",
+        "shortdesc": "Your go-to curduroy.",
+        "cart": "131, 'F1NESSE', 1200, '../products/apparel/women_bottom1.png'",
+        "description": "These corduroy brown girly pants are super cozy and stylish, perfect for a laid-back vibe. The ridged texture adds a unique touch, while the rich brown color goes with everything. Whether you pair them with a cute top or a bomber jacket, you’ll look effortlessly cool."
+    },
+
+    {
+        "id": 132,
+        "name": "ANG3LS SKIRT",
+        "price": "580",
+        "image": "../products/apparel/women_bottom2.png",
+        "shortdesc": "Angelic beauty.",
+        "cart": "132, 'ANG3LS SKIRT', 580, '../products/apparel/women_bottom2.png'",
+        "description": "This denim miniskirt is a classic go-to for a flirty vibe. It’s cut to show off those legs, with a fitted silhouette that hugs in all the right places. Easy to style, it pairs perfectly with a graphic tee or a cute crop top for a casual look."
+    },
+
+    {
+        "id": 133,
+        "name": "WIDE ANKLE",
+        "price": "1,200",
+        "image": "../products/apparel/women_bottom3.png",
+        "shortdesc": "Flare claire!",
+        "cart": "133, 'WIDE ANKLE', 1200, '../products/apparel/women_bottom3.png'",
+        "description": "Denim flared pants bring a retro vibe with their wide-leg cut that kicks out at the bottom. They hug the hips and thighs, creating a flattering silhouette that elongates the legs. Perfect for dressing up or down, these pants can be paired with a fitted top or a flowy blouse for a stylish look."
+    },
+
+    {
+        "id": 134,
+        "name": "WASHED MINI",
+        "price": "670",
+        "image": "../products/apparel/women_bottom4.png",
+        "shortdesc": "Cutesy.",
+        "cart": "134, 'WASHED MINI', 670, '../products/apparel/women_bottom4.png'",
+        "description": "This washed denim miniskirt has a relaxed, vintage feel with its faded finish that gives it character. The slightly frayed hem adds a touch of casual cool, making it perfect for sunny days. Easy to style with a tank or oversized sweater, it’s a versatile piece that brings effortless flair to any outfit."
+    },
+
+    {
+        "id": 135,
+        "name": "BROWNY",
+        "price": "590",
+        "image": "../products/apparel/women_bottom5.png",
+        "shortdesc": "Slay low!",
+        "cart": "135, 'BROWNY', 590, '../products/apparel/women_bottom5.png'",
+        "description": "This brown skirt, called BROWNY, features a sleek design that’s both stylish and practical. It comes with a matching belt that cinches the waist, adding definition and flair. The rich brown hue makes it easy to dress up or down, perfect for any occasion while keeping your look polished and put together."
+    },
+
+    {
+        "id": 136,
+        "name": "HANGING WOMAN",
+        "price": "860",
+        "image": "../products/apparel/women_bottom6.png",
+        "shortdesc": "Style with style!",
+        "cart": "136, 'HANGING WOMAN', 860, '../products/apparel/women_bottom6.png'",
+        "description": "The HANGING WOMAN denim skirt features a unique design that mixes edgy style with a classic silhouette. Its distressed details and frayed hem give it a laid-back vibe, while the eye-catching graphic or embellishment adds an artistic flair. Perfect for pairing with a simple tee or a statement top, this skirt is a standout piece that showcases individuality."
+    },
+
+    {
+        "id": 137,
+        "name": "POCKETIER",
+        "price": "1,110",
+        "image": "../products/apparel/women_bottom7.png",
+        "shortdesc": "Hell of pockets!",
+        "cart": "137, 'POCKETIER', 1110, '../products/apparel/women_bottom7.png'",
+        "description": "The POCKETIER jeans are a modern twist on classic denim, featuring functional pockets on the legs for added utility and style. With a tailored fit, they offer both comfort and a sleek silhouette. Perfect for carrying essentials or just making a fashion statement, these jeans blend practicality with a contemporary edge."
+    },
+
+    {
+        "id": 138,
+        "name": "LOOSE ENDS",
+        "price": "1,180",
+        "image": "../products/apparel/women_bottom8.png",
+        "shortdesc": "Flares.",
+        "cart": "138, 'LOOSE ENDS', 1110, '../products/apparel/women_bottom8.png'",
+        "description": "Meet the LOOSE ENDS flared jeans! With a flattering high waist and playful flared bottoms, they create a chic, boho vibe that's perfect for any occasion. The light wash adds a vintage touch, making them a must-have for effortless, girly styling!"
+    },
+
+    {
+        "id": 139,
+        "name": "STARRY NIGHTS",
+        "price": "670",
+        "image": "../products/apparel/women_bottom9.png",
+        "shortdesc": "Stars, nights, denim.",
+        "cart": "139, 'STARRY NIGHTS', 670, '../products/apparel/women_bottom9.png'",
+        "description": "This denim skirt is edgy and playful with a star cut-out and a studded belt. It's a perfect piece for someone who wants to stand out and show off their unique style."
+    },
+
+    {
+        "id": 140,
+        "name": "RACOON",
+        "price": "700",
+        "image": "../products/apparel/women_bottom10.png",
+        "shortdesc": "Edgy.",
+        "cart": "140, 'RACOON', 700, '../products/apparel/women_bottom10.png'",
+        "description": "This skirt is a playful mix of styles. It's got a cute raccoon patch and a star detail, but the mini length and pleated hem give it a bit of edge. It's perfect for someone who wants to stand out and show off their unique personality."
+    },
+
+    {
+        "id": 141,
+        "name": "TWINKLE TWIRL",
+        "price": "590",
+        "image": "../products/apparel/women_bottom11.png",
+        "shortdesc": "Playful and mini >.<",
+        "cart": "141, 'TWINKLE TWIRL', 590, '../products/apparel/women_bottom11.png'",
+        "description": "This short skirt is perfect for twirling and having fun! It's a light color with cute black star patches and has a drawstring waist for a playful touch. The mini length adds a touch of flirty to this fun skirt."
+    },
+
+    {
+        "id": 142,
+        "name": "CARGO CUTIE",
+        "price": "600",
+        "image": "../products/apparel/women_bottom12.png",
+        "shortdesc": "Ready for Duty!",
+        "cart": "142, 'CARGO CUTIE', 600, '../products/apparel/women_bottom12.png'",
+        "description": "This skirt is a cute and practical choice. The cargo pockets add a touch of utility, while the drawstring ties and mini length give it a playful look. It's perfect for a day of errands or a night out on the town."
+    },
+
+    {
+        "id": 143,
+        "name": "SUPERDENIM",
+        "price": "650",
+        "image": "../products/apparel/women_bottom13.png",
+        "shortdesc": "Dare to wear.",
+        "cart": "143, 'TWINKLE TWIRL', 650, '../products/apparel/women_bottom13.png'",
+        "description": "This denim skirt is edgy and stylish. The distressed denim, asymmetrical hem, and zipper details give it a punk rock vibe. It's perfect for someone who wants to stand out and make a statement."
+    },
+
+    {
+        "id": 161,
+        "name": "PUNK PRINCESS",
+        "price": "750",
+        "image": "../products/apparel/women_accessory1.png",
+        "shortdesc": "Reign Supreme!",
+        "cart": "161, 'PUNK PRINCESS', 750, '../products/apparel/women_accessory1.png'",
+        "description": "This bag is edgy and feminine. The black leather and silver hardware give it a punk rock vibe, while the heart-shaped charm adds a touch of sweetness. It's perfect for someone who wants to stand out and express their unique style."
+    },
+
+    {
+        "id": 162,
+        "name": "FLUTTERFLY",
+        "price": "450",
+        "image": "../products/apparel/women_accessory2.png",
+        "shortdesc": "Butterflies!",
+        "cart": "162, 'FLUTTERFLY', 450, '../products/apparel/women_accessory2.png'",
+        "description": "This belt is a beautiful and unique accessory. The black leather belt is complemented by a stunning butterfly buckle adorned with sparkling rhinestones. It's perfect for adding a touch of elegance and whimsy to any outfit."
+    },
+
+    {
+        "id": 163,
+        "name": "DENIM DREAM",
+        "price": "910",
+        "image": "../products/apparel/women_accessory3.png",
+        "shortdesc": "Be the chic.",
+        "cart": "163, 'DENIM DREAM', 910, '../products/apparel/women_accessory3.png'",
+        "description": "This denim bag is the perfect blend of casual and chic. The classic hobo shape and iconic Fendi buckle give it a timeless appeal. It's the perfect everyday bag for adding a touch of luxury to your casual look."
+    },
+
+    {
+        "id": 164,
+        "name": "CROSS CLASSIC",
+        "price": "150",
+        "image": "../products/apparel/women_accessory4.png",
+        "shortdesc": "Timeless style!",
+        "cart": "164, 'CROSS CLASSIC', 150, '../products/apparel/women_accessory4.png'",
+        "description": "These sleek silver rings feature a minimalist design with a subtle cross motif. The simple yet elegant look makes them perfect for everyday wear, while the iconic Chrome Hearts branding adds a touch of luxury."
+    },
+
+    {
+        "id": 165,
+        "name": "BOWBEANIE",
+        "price": "490",
+        "image": "../products/apparel/women_accessory5.png",
+        "shortdesc": "Sweet and chic.",
+        "cart": "165, 'BOWBEANIE', 490, '../products/apparel/women_accessory5.png'",
+        "description": "This cozy beanie is a stylish and playful accessory. The soft knit fabric and adorable pearl bow details add a touch of femininity and elegance. It's perfect for keeping warm while looking effortlessly chic."
+    },
+
+    {
+        "id": 166,
+        "name": "SADDLEBAG",
+        "price": "780",
+        "image": "../products/apparel/women_accessory6.png",
+        "shortdesc": "Ride in style.",
+        "cart": "166, 'SADDLEBAG', 780, '../products/apparel/women_accessory6.png'",
+        "description": "This bag is a stylish and edgy accessory. The faux leather construction and studded details give it a rock-and-roll vibe. The multiple compartments and adjustable strap make it both functional and fashionable."
+    },
+
+    {
+        "id": 167,
+        "name": "EMBRACELET",
+        "price": "250",
+        "image": "../products/apparel/women_accessory7.png",
+        "shortdesc": "Shine bright!",
+        "cart": "167, 'EMBRACELET', 250, '../products/apparel/women_accessory7.png'",
+        "description": "This silver bracelet is a simple yet stylish accessory. The chunky chain link adds a touch of edge, while the star charm adds a touch of whimsy. It's perfect for everyday wear or to dress up any outfit."
+    },
+
+    {
+        "id": 181,
+        "name": "CHUNKY CH1C",
+        "price": "2,340",
+        "image": "../products/apparel/women_shoe1.png",
+        "shortdesc": "Bold and Beautiful.",
+        "cart": "181, 'CHUNKY CH1C', 2340, '../products/apparel/women_shoe1.png'",
+        "description": "These loafers are a bold and stylish choice. The chunky platform and square toe give them a modern and edgy look. They're perfect for adding a touch of attitude to any outfit."
+    },
+
+    {
+        "id": 182,
+        "name": "ALL-STAR",
+        "price": "2,400",
+        "image": "../products/apparel/women_shoe2.png",
+        "shortdesc": "Timeless stars.",
+        "cart": "182, 'ALL-STAR', 2400, '../products/apparel/women_shoe2.png'",
+        "description": "These classic sneakers are a timeless piece. The canvas upper and iconic star logo give them a retro look, while the clean lines and minimalist design make them perfect for everyday wear."
+    },
+
+    {
+        "id": 183,
+        "name": "BABY PINK",
+        "price": "2,100",
+        "image": "../products/apparel/women_shoe3.png",
+        "shortdesc": "Sweet and street!",
+        "cart": "183, 'BABY PINK', 2100, '../products/apparel/women_shoe3.png'",
+        "description": "These sneakers are a cute and playful take on the classic Bapesta design. The white leather upper and pink accents give them a soft and feminine look, while the iconic star logo adds a touch of street style."
+    },
+
+    {
+        "id": 184,
+        "name": "BUMP CHUNK",
+        "price": "3,100",
+        "image": "../products/apparel/women_shoe4.png",
+        "shortdesc": "Like a diamond.",
+        "cart": "184, 'BUMP CHUNK', 3100, '../products/apparel/women_shoe4.png'",
+        "description": "These patent leather loafers are a glamorous and edgy choice. The chunky platform and sleek design give them a modern and stylish look. They're perfect for adding a touch of sophistication to any outfit."
+    },
+
+    {
+        "id": 185,
+        "name": "COWABUNGGA",
+        "price": "2,500",
+        "image": "../products/apparel/women_shoe5.png",
+        "shortdesc": "Moo-ving and grooving!",
+        "cart": "185, 'COWABUNGGA', 2500, '../products/apparel/women_shoe5.png'",
+        "description": "These sneakers are a fun and playful take on a classic style. The cowhide print adds a touch of whimsy, while the comfortable design makes them perfect for everyday wear."
+    },
+
+    {
+        "id": 186,
+        "name": "CLASSIC RED",
+        "price": "2,140",
+        "image": "../products/apparel/women_shoe6.png",
+        "shortdesc": "Timeless drip.",
+        "cart": "186, 'CLASSIC RED', 2140, '../products/apparel/women_shoe6.png'",
+        "description": "These iconic high-top Converse sneakers are a classic and timeless choice. The bold red color adds a pop of energy, while the comfortable canvas upper and durable rubber sole make them perfect for everyday wear."
+    },
+
+    {
+        "id": 187,
+        "name": "CREAMY CLASS",
+        "price": "2,100",
+        "image": "../products/apparel/women_shoe7.png",
+        "shortdesc": "Go out with your friends!",
+        "cart": "187, 'CREAMY CLASS', 2100, '../products/apparel/women_shoe7.png'",
+        "description": "These high-top Converse sneakers are a stylish and versatile choice. The soft cream color and classic silhouette give them a timeless look, while the comfortable canvas upper and durable rubber sole make them perfect for everyday wear."
+    },
+
+    {
+        "id": 188,
+        "name": "PLATFORM POP",
+        "price": "2,600",
+        "image": "../products/apparel/women_shoe8.png",
+        "shortdesc": "Step into style!",
+        "cart": "188, 'PLATFORM POP', 2600, '../products/apparel/women_shoe8.png'",
+        "description": "These Converse sneakers are a fun and playful take on a classic style. The chunky platform adds a modern twist, while the neutral color palette makes them easy to pair with any outfit."
+    },
+
+    {
+        "id": 189,
+        "name": "DARK DARLING",
+        "price": "3,150",
+        "image": "../products/apparel/women_shoe9.png",
+        "shortdesc": "Edgy elegance.",
+        "cart": "189, 'DARK DARLING', 3150, '../products/apparel/women_shoe9.png'",
+        "description": "These patent leather Mary Janes are a dark and mysterious choice. The chunky platform and sleek design give them a modern and edgy look. They're perfect for adding a touch of attitude to any outfit."
+    }
+]

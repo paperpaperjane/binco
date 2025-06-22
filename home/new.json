@@ -1,0 +1,40 @@
+[
+    {
+        "id": 133,
+        "name": "WIDE ANKLE",
+        "price": "1,200",
+        "image": "../products/apparel/women_bottom3.png",
+        "shortdesc": "Flare claire!",
+        "cart": "133, 'WIDE ANKLE', 1200, '../products/apparel/women_bottom3.png'",
+        "description": "Denim flared pants bring a retro vibe with their wide-leg cut that kicks out at the bottom. They hug the hips and thighs, creating a flattering silhouette that elongates the legs. Perfect for dressing up or down, these pants can be paired with a fitted top or a flowy blouse for a stylish look."
+    },
+
+    {
+        "id": 131,
+        "name": "F1NESSE",
+        "price": "1,200",
+        "image": "../products/apparel/women_bottom1.png",
+        "shortdesc": "Your go-to curduroy.",
+        "cart": "131, 'F1NESSE', 1200, '../products/apparel/women_bottom1.png'",
+        "description": "These corduroy brown girly pants are super cozy and stylish, perfect for a laid-back vibe. The ridged texture adds a unique touch, while the rich brown color goes with everything. Whether you pair them with a cute top or a bomber jacket, you’ll look effortlessly cool."
+    },
+
+    {
+        "id": 85,
+        "name": "SAINTS",
+        "price": "3,300",
+        "image": "../products/apparel/men_shoe5.png",
+        "shortdesc": "Crank that!",
+        "cart": "85, 'SAINTS', 3300, '../products/apparel/men_shoe5.png'",
+        "description": "The Saints sneakers are a classic vibe, bringing that old-school Adidas Campus energy. With a sleek silhouette and soft suede, they’re all about that retro charm. Those three stripes pop, making them perfect for rocking with any fit, whether you’re chillin’ or out on the scene."
+    },
+
+    {   "id": 5,
+        "name": "TWISTED NIGHTMARES",
+        "price": "1,200",
+        "image": "../products/apparel/men_top5.png",
+        "shortdesc": "Straight outta uncanny valley!",
+        "cart": "5, 'TWISTED NIGHTMARES', 1200, '../products/apparel/men_top5.png'",
+        "description": "This jacket is straight outta a twisted nightmare! The dark canvas is a perfect backdrop for the creepy, eye-catching graphics. It's like you're wearing a walking statement that says, I'm not afraid to get a little freaky."
+    }
+]
