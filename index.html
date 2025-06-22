@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Binco Apparel</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="./images/favicon.png">
+    <link rel="stylesheet" href="./files/style.css">
+    <script src="./files/product.js"></script>
+    <script src="./files/cart.js"></script>
+    <script src="./files/scroll.js"></script> 
+</head>
+<body>
+    <!-- header boxes -->
+    <div id="profileBox" class="profile-box">
+        <button id="viewprofileButton" style="display: none;" class="button">View Profile</button>
+        <div id="profileInfo"></div>
+        <button id="loginButton" style="display: none;" class="button">Log-in</button>
+        <button id="logoutButton" style="display: none;" class="button">Logout</button>
+    </div>
+
+    <div id="cartBox" class="cart-box">
+        <button id="viewcartButton" style="display: none;" class="button">View Cart</button>
+        <div id="cartInfo"></div>
+    </div>
+
+    <!-- header -->
+    <div class="header-container">
+        <div class="header">
+            <img src="./images/bincolong.png" height="25px">
+        </div>
+        
+        <nav class="header">
+            <a href="./pages/lookbook.html">Lookbook</a>
+            <a id="cartButton">Cart</a>
+            <a id="profileButton">Profile</a>
+            <script src="./files/header.js"></script>
+        </nav>
+    </div>
+
+    <!-- banner -->
+    <div class="banner-container">
+        <video autoplay muted loop class="banner">
+            <source src="./images/mainbanner.mp4" type="video/mp4">
+        </video>
+    </div>
+
+    <!-- category -->
+    <div class="category-container fade-in">
+        <p class="category">
+            <a href="./pages/men.html" class="category-item">His</a>
+            <a href="./pages/women.html" class="category-item">Hers</a>
+        </p>
+    </div>
+    <br>
+
+    <!-- advertisement -->
+    <div class="advertisement-container fade-in">
+        <img src="./images/mainad1.png">
+        <h2>Meet me at the...?</h2>
+        <p>Shop Muna!</p>
+    </div>
+    <br>
+
+    <!-- featured -->
+    <h2 class="title fade-in">Featured</h2>
+    <div class="box-container fade-in" id="featured-list"></div>
+    <br>
+
+    <!-- new -->
+    <h2 class="title fade-in">New Drops</h2>
+    <div class="box-container fade-in" id="new-list"></div>
+    <br>
+
+    <!-- advertisement -->
+    <div class="advertisement-container fade-in">
+        <img src="./images/mainad2.png">
+        <h2>Feel the Most Mystery.</h2>
+        <p>Only with Binco.</p>
+    </div>
+    <br>
+
+    <!-- men -->
+    <h2 class="title fade-in">His Closet</h2>
+    <div class="closet-container fade-in">
+        <div class="scroll-container" id="men-list"></div>
+    </div>
+    <br><br><br>
+
+    <!-- women -->
+    <h2 class="title fade-in">Her Closet</h2>
+    <div class="closet-container fade-in">
+        <div class="scroll-container" id="women-list"></div>
+    </div>
+    <br><br><br>
+
+    <!-- footer -->
+    <hr class="footer-line">
+    <footer>
+        <div class="footer-column">
+            <h3>About Us</h3>
+            <p><a href="./pages/about.html">Physical Stores</a></p>
+            <p><a href="./pages/about.html">Library</a></p>
+            <p><a href="./pages/about.html">Team</a></p>
+            <p><a href="./pages/about.html">What and Why?</a></p>
+        </div>
+    
+        <div class="footer-column">
+            <h3 style="font-size: 200%">Binco</h3>
+            <p>No rights reserved.</p>
+        </div>
+
+        <div class="footer-column">
+            <h3>Help</h3>
+            <p><a href="./pages/help.html">FAQ</a></p>
+            <p><a href="./pages/help.html">Orders</a></p>
+            <p><a href="./pages/help.html">Returns</a></p>
+        </div>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Binco Checkout</title>
+    <link rel="stylesheet" href="../files/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">    
+    <link href="https://fonts.googleapis.com/css2?family=Baumans&display=swap" rel="stylesheet">
+    <link rel="icon" type="image/x-icon" href="../images/binco.png">
+    <script src="../files/scroll.js"></script>
+    <style>
+        .checkout-container {
+        color: white;
+        padding: 10px;
+        }
+        
+        main {
+            padding: 20px;
+        }
+
+        form {
+            max-width: 400px;
+            margin: auto;
+        }
+
+        label {
+            display: block;
+            margin: 10px 0 5px;
+        }
+
+        input {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 15px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <!-- header boxes -->
+    <div id="profileBox" class="profile-box">
+        <button id="viewprofileButton" style="display: none;" class="button">View Profile</button>
+        <div id="profileInfo"></div>
+        <button id="loginButton" style="display: none;" class="button">Log-in</button>
+        <button id="logoutButton" style="display: none;" class="button">Logout</button>
+    </div>
+
+    <div id="cartBox" class="cart-box">
+        <button id="viewcartButton" style="display: none;" class="button">View Cart</button>
+        <div id="cartInfo"></div>
+    </div>
+
+    <!-- header -->
+    <div class="header-container">
+        <div class="header">
+            <img src="../images/bincolong.png" height="25px">
+        </div>
+        
+        <nav class="header">
+            <a href="../index.html">Home</a>
+            <a href="../pages/lookbook.html">Lookbook</a>
+            <a id="cartButton">Cart</a>
+            <a id="profileButton">Profile</a>
+            <script src="../files/header.js"></script>
+        </nav>
+    </div>
+
+        
+    <!-- checkout header -->
+    <header class="checkout-container">
+        <h1 class="title fade-in">Checkout</h1>
+    </header>
+
+    <!-- fill-out -->
+    <main>
+        <form id="checkoutForm">
+            <h2 class="fade-in">Shipping Information</h2>
+            <label class="fade-in" for="name">Full Name:</label>
+            <input class="fade-in" type="text" id="name" required>
+
+            <label class="fade-in" for="address">Address:</label>
+            <input class="fade-in" type="text" id="address" required>
+
+            <label class="fade-in" for="city">City:</label>
+            <input class="fade-in" type="text" id="city" required>
+
+            <label class="fade-in" for="state">State:</label>
+            <input class="fade-in" type="text" id="state" required>
+
+            <label class="fade-in" for="zip">Zip Code:</label>
+            <input class="fade-in" type="text" id="zip" required>
+
+            <h2 class="fade-in">Payment Information</h2>
+            <label class="fade-in" for="cardNumber">Card Number:</label>
+            <input class="fade-in" type="text" id="cardNumber" required>
+
+            <label class="fade-in" for="expiry">Expiry Date (MM/YY):</label>
+            <input class="fade-in" type="text" id="expiry" required>
+
+            <label class="fade-in" for="cvv">CVV:</label>
+            <input class="fade-in" type="text" id="cvv" required>
+
+            <button type="submit" id="checkout-button" class="button fade-in">Complete Purchase</button>
+        </form>
+        <br><br><br><br><br>
+    </main>
+    <script src="../files/checkout.js"></script>
+</body>
+</html>

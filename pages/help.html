@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Binco's Help</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="../images/favicon.png">
+    <link rel="stylesheet" href="../files/style.css">
+    <script src="../files/scroll.js"></script>
+    <style>
+    .help-container {
+        max-width: 80%;
+        margin: 20px auto;
+        padding: 20px;
+        background-color: white;
+        border-radius: 8px;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .faq-item {
+        margin-bottom: 15px;
+        border-bottom: 1px solid #ddd;
+        padding: 10px 0;
+    }
+
+    .faq-item:last-child {
+        border-bottom: none;
+    }
+
+    .question {
+        font-weight: bold;
+        cursor: pointer;
+        color: #fbb304;
+    }
+    
+    .answer {
+        max-height: 0;
+        overflow: hidden;
+        padding: 0 15px;
+        margin: 5px 0;
+        transition: max-height 0.3s ease-in-out, padding 0.3s ease-in-out;
+    }
+
+    .answer.show {
+        max-height: 100px; /* Adjust this based on content */
+        padding: 15px; /* Reveals padding when shown */
+    }
+
+    h1 {
+            font-family: "Baumans";
+            color:  #fbb304;
+    }
+    </style>
+</head>
+<body>
+    <!-- header boxes -->
+    <div id="profileBox" class="profile-box">
+        <button id="viewprofileButton" style="display: none;" class="button">View Profile</button>
+        <div id="profileInfo"></div>
+        <button id="loginButton" style="display: none;" class="button">Log-in</button>
+        <button id="logoutButton" style="display: none;" class="button">Logout</button>
+    </div>
+
+    <div id="cartBox" class="cart-box">
+        <button id="viewcartButton" style="display: none;" class="button">View Cart</button>
+        <div id="cartInfo"></div>
+    </div>
+
+    <!-- header -->
+    <div class="header-container">
+        <div class="header">
+            <img src="../images/bincolong.png" height="25px">
+        </div>
+        
+        <nav class="header">
+            <a href="../index.html">Home</a>
+            <a href="../pages/lookbook.html">Lookbook</a>
+            <a id="cartButton">Cart</a>
+            <a id="profileButton">Profile</a>
+            <script src="../files/header.js"></script>
+        </nav>
+    </div>
+    
+    <!-- help -->
+    <div class="help-container fade-in">
+        <h1>Frequently Asked Questions</h1>
+
+        <div class="faq-item fade-in">
+            <div class="question" onclick="toggleAnswer(this)">Does Binco have a return policy?</div>
+            <div class="answer">Binco offers a month-long return policy. As long as the requested product's reciept and box is present, our team will cover it.</div>
+        </div>
+
+        <div class="faq-item fade-in">
+            <div class="question" onclick="toggleAnswer(this)">Can I track my orders?</div>
+            <div class="answer">Every order purchased will come alongside with tracking orders. You can recieve it via email/phone/our website.</div>
+        </div>
+
+        <div class="faq-item fade-in">
+            <div class="question" onclick="toggleAnswer(this)">Worldwide shipping?</div>
+            <div class="answer">As of the current moment, Binco does not offer international shipping, unfortunately.</div>
+        </div>
+
+        <div class="faq-item fade-in">
+            <div class="question" onclick="toggleAnswer(this)">Payment Methods?</div>
+            <div class="answer">Major payment outlets like GCash, Paypal, and various credit cards.</div>
+        </div>
+
+        <div class="faq-item fade-in">
+            <div class="question" onclick="toggleAnswer(this)">Where is Binco located?</div>
+            <div class="answer">Currently, Binco's physical stores are available around Plaridel, Bulacan and Malolos, Bulacan.</div>
+        </div>
+
+        <div class="faq-item fade-in">
+            <div class="question" onclick="toggleAnswer(this)">Where can I report a bug?</div>
+            <div class="answer">Silly, there's no bugs in here :3</div>
+        </div>
+
+        <div class="faq-item fade-in">
+            <div class="question" onclick="toggleAnswer(this)">How to view via the internet?</div>
+            <div class="answer">To access Binco online, peep this link! <a href="https://binco-sigma.vercel.app/">Binco.com</a> </div>
+        </div>
+
+        <div class="faq-item fade-in">
+            <div class="question" onclick="toggleAnswer(this)">What are your pricing options for custom orders? </div>
+            <div class="answer">Pricing depends on the custom's weight.</div>
+        </div>
+
+        <div class="faq-item fade-in">
+            <div class="question" onclick="toggleAnswer(this)">How do I fix an issue where the product images aren’t displaying?</div>
+            <div class="answer">Due to CORS, .json files won't be visible. The user will have to access the website online. Peep this link: <a href="https://binco-sigma.vercel.app/">Binco.com</a> </div>
+        </div>
+
+        <div class="faq-item fade-in">
+            <div class="question" onclick="toggleAnswer(this)"> How do I return an item I purchased online?</div>
+            <div class="answer">Contact us via SMS: +63 967 4407 916 </div>
+        </div>
+
+    </div>
+
+    <script>
+        function toggleAnswer(element) {
+            const answer = element.nextElementSibling;  
+            answer.classList.toggle('show');}
+    </script>
+    </body>
+    </html>

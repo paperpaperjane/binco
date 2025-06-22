@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Binco Cart</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="../images/favicon.png">
+    <link rel="stylesheet" href="../files/style.css">
+    <script src="../files/scroll.js"></script>
+    <style>
+    .cart {
+        max-width: 800px;
+        margin: 20px auto;
+        padding: 20px;
+        background-color: white;
+        border-radius: 8px;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    }
+
+    #cart {
+        max-width: 100%;
+    }
+
+    .cart-item {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 10px;
+        transition: height 0.3s ease, opacity 0.3s ease;
+        overflow: hidden;
+    }
+
+    .cart-item:last-child {
+        border-bottom: none;
+    }
+
+    .total {
+        font-weight: bold;
+        margin-top: 10px;
+        color: #fbb304
+    }
+
+    h1 {
+        color: #fbb304;
+        font-family: "Baumans"
+    }
+    </style>
+</head>
+<body>    
+    <!-- header boxes -->
+    <div id="profileBox" class="profile-box">
+        <button id="viewprofileButton" style="display: none;" class="button">View Profile</button>
+        <div id="profileInfo"></div>
+        <button id="loginButton" style="display: none;" class="button">Log-in</button>
+        <button id="logoutButton" style="display: none;" class="button">Logout</button>
+    </div>
+
+    <!-- header -->
+    <div class="header-container">
+        <div class="header">
+            <img src="../images/bincolong.png" height="25px">
+        </div>
+        
+        <nav class="header">
+            <a href="../index.html">Home</a>
+            <a href="../pages/lookbook.html">Lookbook</a>
+            <a id="profileButton">Profile</a>
+            <script src="../files/header.js"></script>
+        </nav>
+    </div>
+    
+    <!-- cart -->
+    <div class="cart fade-in">
+        <h1>Your Binco Cart</h1>
+        <div id="cart" class="fade-in"></div>
+        <div class="total fade-in" id="total"></div>
+       <button id="checkoutButton" class="button">Proceed to Checkout</button> </a>
+       <script src="../files/cart.js"></script>
+    </div>
+    <br><br><br>
+</body>
+</html>
